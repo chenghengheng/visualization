@@ -1,4 +1,6 @@
 import { defineStore } from 'pinia'
+import meta from '../assets/meta.json'
+import network from '../assets/follow_network.json'
 import weibo from '../assets/weibo_data_label_index_new.json'
 
 export interface Weibo {
