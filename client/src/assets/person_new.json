@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Emily Johnson",
+    "age": 29,
+    "gender": "Female",
+    "residency": "San Francisco, USA",
+    "time_zone": "Pacific Time (PT)",
+    "innate": "Curious and Analytical",
+    "job": "Data Analyst",
+    "lifestyle": "Explores data trends, enjoys hiking",
+    "twitter_followers": 4200,
+    "twitter_behaviors": {
+      "frequency": "3 tweets/day",
+      "content": [
+        "Data insights and trends",
+        "Outdoor adventure experiences",
+        "Data visualization examples"
+      ],
+      "engagement": "Responds to data-related discussions, shares insights, retweets industry experts"
+    },
+    "id": 0,
+    "avatar": "1.png"
+  },
+  {
+    "name": "Michael Chen",
+    "age": 34,
+    "gender": "Male",
+    "residency": "Toronto, Canada",
+    "time_zone": "Eastern Time (ET)",
+    "innate": "Innovative and Tech-savvy",
+    "job": "Software Engineer",
+    "lifestyle": "Codes software, enjoys gaming",
+    "twitter_followers": 7800,
+    "twitter_behaviors": {
+      "frequency": "5 tweets/day",
+      "content": [
+        "Code snippets and programming tips",
+        "Gaming reviews and strategies",
+        "Tech industry insights"
+      ],
+      "engagement": "Participates in tech discussions, shares coding resources, interacts with fellow developers"
+    },
+    "id": 1,
+    "avatar": "2.png"
+  },
+  {
+    "name": "Isabella Martinez",
+    "age": 31,
+    "gender": "Female",
+    "residency": "Barcelona, Spain",
+    "time_zone": "Central European Time (CET)",
+    "innate": "Artistic and Passionate",
+    "job": "Painter",
+    "lifestyle": "Creates vibrant art, explores local galleries",
+    "twitter_followers": 2300,
+    "twitter_behaviors": {
+      "frequency": "1 tweet/day",
+      "content": [
+        "Artwork showcases and creative process",
+        "Gallery visits and art exhibitions",
+        "Color inspiration and artistic musings"
+      ],
+      "engagement": "Interacts with art enthusiasts, shares behind-the-scenes glimpses, retweets fellow artists"
+    },
+    "id": 2,
+    "avatar": "3.png"
+  },
+  {
+    "name": "Liam Wilson",
+    "age": 28,
+    "gender": "Male",
+    "residency": "London, UK",
+    "time_zone": "Greenwich Mean Time (GMT)",
+    "innate": "Analytical and Methodical",
+    "job": "Financial Analyst",
+    "lifestyle": "Analyzes market trends, enjoys reading",
+    "twitter_followers": 6100,
+    "twitter_behaviors": {
+      "frequency": "2 tweets/day",
+      "content": [
+        "Financial insights and market analysis",
+        "Book recommendations and reviews",
+        "Investment strategies"
+      ],
+      "engagement": "Participates in financial discussions, shares analysis articles, interacts with fellow analysts"
+    },
+    "id": 3,
+    "avatar": "4.png"
+  },
+  {
+    "name": "Ava Thompson",
+    "age": 35,
+    "gender": "Female",
+    "residency": "Sydney, Australia",
+    "time_zone": "Australian Eastern Standard Time (AEST)",
+    "innate": "Empathetic and Supportive",
+    "job": "Clinical Psychologist",
+    "lifestyle": "Provides therapy, practices mindfulness",
+    "twitter_followers": 3800,
+    "twitter_behaviors": {
+      "frequency": "1 tweet/day",
+      "content": [
+        "Mental health tips and self-care practices",
+        "Psychology insights and coping strategies",
+        "Mindfulness exercises"
+      ],
+      "engagement": "Engages with mental health discussions, offers advice, shares calming techniques"
+    },
+    "id": 4,
+    "avatar": "5.png"
+  },
+  {
+    "name": "Daniel Kim",
+    "age": 42,
+    "gender": "Male",
+    "residency": "Seoul, South Korea",
+    "time_zone": "Korean Standard Time (KST)",
+    "innate": "Adventurous and Explorer",
+    "job": "Travel Writer",
+    "lifestyle": "Explores global destinations, documents journeys",
+    "twitter_followers": 4800,
+    "twitter_behaviors": {
+      "frequency": "2 tweets/day",
+      "content": [
+        "Travel stories and destination highlights",
+        "Cultural experiences and local cuisine",
+        "Travel photography"
+      ],
+      "engagement": "Shares travel advice, interacts with fellow travelers, retweets travel-related content"
+    },
+    "id": 5,
+    "avatar": "6.png"
+  },
+  {
+    "name": "Oliver Garcia",
+    "age": 30,
+    "gender": "Male",
+    "residency": "Mexico City, Mexico",
+    "time_zone": "Central Standard Time (CST)",
+    "innate": "Philosophical and Thoughtful",
+    "job": "Philosopher",
+    "lifestyle": "Contemplates life's questions, enjoys nature",
+    "twitter_followers": 1600,
+    "twitter_behaviors": {
+      "frequency": "1 tweet/day",
+      "content": [
+        "Philosophical insights and ponderings",
+        "Nature observations and reflections",
+        "Book recommendations on philosophy"
+      ],
+      "engagement": "Participates in philosophical discussions, shares wisdom, interacts with fellow thinkers"
+    },
+    "id": 6,
+    "avatar": "7.png"
+  },
+  {
+    "name": "Emma Rodriguez",
+    "age": 27,
+    "gender": "Female",
+    "residency": "Paris, France",
+    "time_zone": "Central European Time (CET)",
+    "innate": "Creative and Expressive",
+    "job": "Fashion Blogger",
+    "lifestyle": "Curates fashion looks, attends fashion events",
+    "twitter_followers": 5600,
+    "twitter_behaviors": {
+      "frequency": "3 tweets/day",
+      "content": [
+        "Fashion inspirations and outfit ideas",
+        "Runway show coverage and trend predictions",
+        "Beauty and styling tips"
+      ],
+      "engagement": "Engages with fashion enthusiasts, shares style advice, retweets designer updates"
+    },
+    "id": 7,
+    "avatar": "8.png"
+  },
+  {
+    "name": "Noah Martinez",
+    "age": 25,
+    "gender": "Male",
+    "residency": "Los Angeles, USA",
+    "time_zone": "Pacific Time (PT)",
+    "innate": "Innovative and Tech Enthusiast",
+    "job": "Tech Blogger",
+    "lifestyle": "Reviews gadgets, explores emerging tech",
+    "twitter_followers": 7100,
+    "twitter_behaviors": {
+      "frequency": "4 tweets/day",
+      "content": [
+        "Tech reviews and gadget recommendations",
+        "Latest tech trends and innovations",
+        "Tips for optimizing digital experiences"
+      ],
+      "engagement": "Participates in tech debates, ashres tech hacks, interacts with fellow techies"
+    },
+    "id": 8,
+    "avatar": "9.png"
+  }
+]

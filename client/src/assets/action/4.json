@@ -1,0 +1,749 @@
+[
+  {
+    "des": "sleeping",
+    "time": 1518451200.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 00:00:00",
+    "aoe_time": 1518372000.0,
+    "aoe_curr_time": "February 12, 2018, 02:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518476400.0,
+    "poi": "3.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 07:00:00",
+    "aoe_time": 1518397200.0,
+    "aoe_curr_time": "February 12, 2018, 09:00:00"
+  },
+  {
+    "des": "heading to the office for patient sessions",
+    "time": 1518480000.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 08:00:00",
+    "aoe_time": 1518400800.0,
+    "aoe_curr_time": "February 12, 2018, 10:00:00"
+  },
+  {
+    "des": "providing therapy to her patients",
+    "time": 1518483600.0,
+    "poi": "5.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 09:00:00",
+    "aoe_time": 1518404400.0,
+    "aoe_curr_time": "February 12, 2018, 11:00:00"
+  },
+  {
+    "des": "taking a lunch break",
+    "time": 1518494400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 12:00:00",
+    "aoe_time": 1518415200.0,
+    "aoe_curr_time": "February 12, 2018, 14:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518498000.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 13:00:00",
+    "aoe_time": 1518418800.0,
+    "aoe_curr_time": "February 12, 2018, 15:00:00"
+  },
+  {
+    "des": "providing therapy to her patients",
+    "time": 1518501600.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 14:00:00",
+    "aoe_time": 1518422400.0,
+    "aoe_curr_time": "February 12, 2018, 16:00:00"
+  },
+  {
+    "des": "finishing up her work day",
+    "time": 1518512400.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 17:00:00",
+    "aoe_time": 1518433200.0,
+    "aoe_curr_time": "February 12, 2018, 19:00:00"
+  },
+  {
+    "des": "heading home and practicing mindfulness",
+    "time": 1518519600.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 19:00:00",
+    "aoe_time": 1518440400.0,
+    "aoe_curr_time": "February 12, 2018, 21:00:00"
+  },
+  {
+    "des": "cooking dinner",
+    "time": 1518523200.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 20:00:00",
+    "aoe_time": 1518444000.0,
+    "aoe_curr_time": "February 12, 2018, 22:00:00"
+  },
+  {
+    "des": "eating dinner",
+    "time": 1518526800.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 21:00:00",
+    "aoe_time": 1518447600.0,
+    "aoe_curr_time": "February 12, 2018, 23:00:00"
+  },
+  {
+    "des": "relaxing and watching a movie",
+    "time": 1518530400.0,
+    "poi": "6.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 22:00:00",
+    "aoe_time": 1518451200.0,
+    "aoe_curr_time": "February 13, 2018, 00:00:00"
+  },
+  {
+    "des": "getting ready for bed",
+    "time": 1518534000.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 23:00:00",
+    "aoe_time": 1518454800.0,
+    "aoe_curr_time": "February 13, 2018, 01:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518537600.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 00:00:00",
+    "aoe_time": 1518458400.0,
+    "aoe_curr_time": "February 13, 2018, 02:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518566400.0,
+    "poi": "2.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 08:00:00",
+    "aoe_time": 1518487200.0,
+    "aoe_curr_time": "February 13, 2018, 10:00:00"
+  },
+  {
+    "des": "attending an online course for her professional development",
+    "time": 1518570000.0,
+    "poi": "8.7",
+    "type": "event",
+    "acc_time": "February 14, 2018, 09:00:00",
+    "aoe_time": 1518490800.0,
+    "aoe_curr_time": "February 13, 2018, 11:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518577200.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 11:00:00",
+    "aoe_time": 1518498000.0,
+    "aoe_curr_time": "February 13, 2018, 13:00:00"
+  },
+  {
+    "des": "making a therapy session with a client",
+    "time": 1518584400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 13:00:00",
+    "aoe_time": 1518505200.0,
+    "aoe_curr_time": "February 13, 2018, 15:00:00"
+  },
+  {
+    "des": "practicing yoga",
+    "time": 1518595200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 16:00:00",
+    "aoe_time": 1518516000.0,
+    "aoe_curr_time": "February 13, 2018, 18:00:00"
+  },
+  {
+    "des": "attending a mindfulness meditation session",
+    "time": 1518602400.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 18:00:00",
+    "aoe_time": 1518523200.0,
+    "aoe_curr_time": "February 13, 2018, 20:00:00"
+  },
+  {
+    "des": "watching TV",
+    "time": 1518606000.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 19:00:00",
+    "aoe_time": 1518526800.0,
+    "aoe_curr_time": "February 13, 2018, 21:00:00"
+  },
+  {
+    "des": "journaling and reflecting on the day",
+    "time": 1518613200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 21:00:00",
+    "aoe_time": 1518534000.0,
+    "aoe_curr_time": "February 13, 2018, 23:00:00"
+  },
+  {
+    "des": "going to bed",
+    "time": 1518616800.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 22:00:00",
+    "aoe_time": 1518537600.0,
+    "aoe_curr_time": "February 14, 2018, 00:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518624000.0,
+    "poi": "3.",
+    "type": "event",
+    "acc_time": "February 15, 2018, 00:00:00",
+    "aoe_time": 1518544800.0,
+    "aoe_curr_time": "February 14, 2018, 02:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518652800.0,
+    "poi": "2.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 08:00:00",
+    "aoe_time": 1518573600.0,
+    "aoe_curr_time": "February 14, 2018, 10:00:00"
+  },
+  {
+    "des": "meeting a client for therapy",
+    "time": 1518656400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 09:00:00",
+    "aoe_time": 1518577200.0,
+    "aoe_curr_time": "February 14, 2018, 11:00:00"
+  },
+  {
+    "des": "enjoying a break for lunch",
+    "time": 1518663600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 11:00:00",
+    "aoe_time": 1518584400.0,
+    "aoe_curr_time": "February 14, 2018, 13:00:00"
+  },
+  {
+    "des": "practicing mindfulness",
+    "time": 1518670800.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 13:00:00",
+    "aoe_time": 1518591600.0,
+    "aoe_curr_time": "February 14, 2018, 15:00:00"
+  },
+  {
+    "des": "having a coffee",
+    "time": 1518678000.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 15:00:00",
+    "aoe_time": 1518598800.0,
+    "aoe_curr_time": "February 14, 2018, 17:00:00"
+  },
+  {
+    "des": "meeting a client for therapy",
+    "time": 1518681600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 16:00:00",
+    "aoe_time": 1518602400.0,
+    "aoe_curr_time": "February 14, 2018, 18:00:00"
+  },
+  {
+    "des": "eating dinner",
+    "time": 1518685200.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 17:00:00",
+    "aoe_time": 1518606000.0,
+    "aoe_curr_time": "February 14, 2018, 19:00:00"
+  },
+  {
+    "des": "meeting a friend for a walk",
+    "time": 1518696000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 20:00:00",
+    "aoe_time": 1518616800.0,
+    "aoe_curr_time": "February 14, 2018, 22:00:00"
+  },
+  {
+    "des": "watching a movie",
+    "time": 1518703200.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 22:00:00",
+    "aoe_time": 1518624000.0,
+    "aoe_curr_time": "February 15, 2018, 00:00:00"
+  },
+  {
+    "des": "getting ready for bed",
+    "time": 1518706800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 23:00:00",
+    "aoe_time": 1518627600.0,
+    "aoe_curr_time": "February 15, 2018, 01:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518710400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 00:00:00",
+    "aoe_time": 1518631200.0,
+    "aoe_curr_time": "February 15, 2018, 02:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518739200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 08:00:00",
+    "aoe_time": 1518660000.0,
+    "aoe_curr_time": "February 15, 2018, 10:00:00"
+  },
+  {
+    "des": "having breakfast",
+    "time": 1518742800.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 09:00:00",
+    "aoe_time": 1518663600.0,
+    "aoe_curr_time": "February 15, 2018, 11:00:00"
+  },
+  {
+    "des": "attending therapy clients and office tasks",
+    "time": 1518746400.0,
+    "poi": "6.2",
+    "type": "event",
+    "acc_time": "February 16, 2018, 10:00:00",
+    "aoe_time": 1518667200.0,
+    "aoe_curr_time": "February 15, 2018, 12:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518753600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 12:00:00",
+    "aoe_time": 1518674400.0,
+    "aoe_curr_time": "February 15, 2018, 14:00:00"
+  },
+  {
+    "des": "engaging in a scholarly activity such as writing or reading",
+    "time": 1518757200.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 13:00:00",
+    "aoe_time": 1518678000.0,
+    "aoe_curr_time": "February 15, 2018, 15:00:00"
+  },
+  {
+    "des": "practicing mindfulness meditation or participating in a hobby",
+    "time": 1518768000.0,
+    "poi": "5.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 16:00:00",
+    "aoe_time": 1518688800.0,
+    "aoe_curr_time": "February 15, 2018, 18:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518771600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 17:00:00",
+    "aoe_time": 1518692400.0,
+    "aoe_curr_time": "February 15, 2018, 19:00:00"
+  },
+  {
+    "des": "relaxing and winding down",
+    "time": 1518778800.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 19:00:00",
+    "aoe_time": 1518699600.0,
+    "aoe_curr_time": "February 15, 2018, 21:00:00"
+  },
+  {
+    "des": "watching television or engaging in conversation with family",
+    "time": 1518786000.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 21:00:00",
+    "aoe_time": 1518706800.0,
+    "aoe_curr_time": "February 15, 2018, 23:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518793200.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 23:00:00",
+    "aoe_time": 1518714000.0,
+    "aoe_curr_time": "February 16, 2018, 01:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518796800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 00:00:00",
+    "aoe_time": 1518717600.0,
+    "aoe_curr_time": "February 16, 2018, 02:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518822000.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 07:00:00",
+    "aoe_time": 1518742800.0,
+    "aoe_curr_time": "February 16, 2018, 09:00:00"
+  },
+  {
+    "des": "getting ready for her day and leaving for work",
+    "time": 1518825600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 08:00:00",
+    "aoe_time": 1518746400.0,
+    "aoe_curr_time": "February 16, 2018, 10:00:00"
+  },
+  {
+    "des": "arriving at the office and attending appointments",
+    "time": 1518829200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 09:00:00",
+    "aoe_time": 1518750000.0,
+    "aoe_curr_time": "February 16, 2018, 11:00:00"
+  },
+  {
+    "des": "attending appointments",
+    "time": 1518832800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 10:00:00",
+    "aoe_time": 1518753600.0,
+    "aoe_curr_time": "February 16, 2018, 12:00:00"
+  },
+  {
+    "des": "taking a break for lunch",
+    "time": 1518840000.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 12:00:00",
+    "aoe_time": 1518760800.0,
+    "aoe_curr_time": "February 16, 2018, 14:00:00"
+  },
+  {
+    "des": "attending appointments",
+    "time": 1518847200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 14:00:00",
+    "aoe_time": 1518768000.0,
+    "aoe_curr_time": "February 16, 2018, 16:00:00"
+  },
+  {
+    "des": "reviewing case files and preparing for the next day's appointments",
+    "time": 1518858000.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 17:00:00",
+    "aoe_time": 1518778800.0,
+    "aoe_curr_time": "February 16, 2018, 19:00:00"
+  },
+  {
+    "des": "eating dinner",
+    "time": 1518861600.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 18:00:00",
+    "aoe_time": 1518782400.0,
+    "aoe_curr_time": "February 16, 2018, 20:00:00"
+  },
+  {
+    "des": "practicing mindfulness",
+    "time": 1518865200.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 19:00:00",
+    "aoe_time": 1518786000.0,
+    "aoe_curr_time": "February 16, 2018, 21:00:00"
+  },
+  {
+    "des": "spending time with family",
+    "time": 1518872400.0,
+    "poi": "9.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 21:00:00",
+    "aoe_time": 1518793200.0,
+    "aoe_curr_time": "February 16, 2018, 23:00:00"
+  },
+  {
+    "des": "going to sleep",
+    "time": 1518879600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 23:00:00",
+    "aoe_time": 1518800400.0,
+    "aoe_curr_time": "February 17, 2018, 01:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518883200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 00:00:00",
+    "aoe_time": 1518804000.0,
+    "aoe_curr_time": "February 17, 2018, 02:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518904800.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 06:00:00",
+    "aoe_time": 1518825600.0,
+    "aoe_curr_time": "February 17, 2018, 08:00:00"
+  },
+  {
+    "des": "having breakfast",
+    "time": 1518908400.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 07:00:00",
+    "aoe_time": 1518829200.0,
+    "aoe_curr_time": "February 17, 2018, 09:00:00"
+  },
+  {
+    "des": "reviewing case files for therapy appointments",
+    "time": 1518912000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 08:00:00",
+    "aoe_time": 1518832800.0,
+    "aoe_curr_time": "February 17, 2018, 10:00:00"
+  },
+  {
+    "des": "having a therapy session",
+    "time": 1518915600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 09:00:00",
+    "aoe_time": 1518836400.0,
+    "aoe_curr_time": "February 17, 2018, 11:00:00"
+  },
+  {
+    "des": "taking a mindfulness break",
+    "time": 1518919200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 10:00:00",
+    "aoe_time": 1518840000.0,
+    "aoe_curr_time": "February 17, 2018, 12:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518922800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 11:00:00",
+    "aoe_time": 1518843600.0,
+    "aoe_curr_time": "February 17, 2018, 13:00:00"
+  },
+  {
+    "des": "providing a therapy session",
+    "time": 1518930000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 13:00:00",
+    "aoe_time": 1518850800.0,
+    "aoe_curr_time": "February 17, 2018, 15:00:00"
+  },
+  {
+    "des": "taking a walk to clear the head",
+    "time": 1518933600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 14:00:00",
+    "aoe_time": 1518854400.0,
+    "aoe_curr_time": "February 17, 2018, 16:00:00"
+  },
+  {
+    "des": "taking a break and reading a book",
+    "time": 1518940800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 16:00:00",
+    "aoe_time": 1518861600.0,
+    "aoe_curr_time": "February 17, 2018, 18:00:00"
+  },
+  {
+    "des": "attending a mindfulness class",
+    "time": 1518944400.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 18, 2018, 17:00:00",
+    "aoe_time": 1518865200.0,
+    "aoe_curr_time": "February 17, 2018, 19:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518951600.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 19:00:00",
+    "aoe_time": 1518872400.0,
+    "aoe_curr_time": "February 17, 2018, 21:00:00"
+  },
+  {
+    "des": "having a relaxing bath",
+    "time": 1518958800.0,
+    "poi": "6.8",
+    "type": "event",
+    "acc_time": "February 18, 2018, 21:00:00",
+    "aoe_time": 1518879600.0,
+    "aoe_curr_time": "February 17, 2018, 23:00:00"
+  },
+  {
+    "des": "watching a movie",
+    "time": 1518962400.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 22:00:00",
+    "aoe_time": 1518883200.0,
+    "aoe_curr_time": "February 18, 2018, 00:00:00"
+  },
+  {
+    "des": "going to bed",
+    "time": 1518966000.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 23:00:00",
+    "aoe_time": 1518886800.0,
+    "aoe_curr_time": "February 18, 2018, 01:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518969600.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 00:00:00",
+    "aoe_time": 1518890400.0,
+    "aoe_curr_time": "February 18, 2018, 02:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518994800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 07:00:00",
+    "aoe_time": 1518915600.0,
+    "aoe_curr_time": "February 18, 2018, 09:00:00"
+  },
+  {
+    "des": "having breakfast and reading the news",
+    "time": 1518998400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 08:00:00",
+    "aoe_time": 1518919200.0,
+    "aoe_curr_time": "February 18, 2018, 10:00:00"
+  },
+  {
+    "des": "providing therapy sessions in her office",
+    "time": 1519002000.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 09:00:00",
+    "aoe_time": 1518922800.0,
+    "aoe_curr_time": "February 18, 2018, 11:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1519012800.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 19, 2018, 12:00:00",
+    "aoe_time": 1518933600.0,
+    "aoe_curr_time": "February 18, 2018, 14:00:00"
+  },
+  {
+    "des": "having a quick meditation break",
+    "time": 1519016400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 13:00:00",
+    "aoe_time": 1518937200.0,
+    "aoe_curr_time": "February 18, 2018, 15:00:00"
+  },
+  {
+    "des": "providing therapy sessions in her office",
+    "time": 1519023600.0,
+    "poi": "8",
+    "type": "event",
+    "acc_time": "February 19, 2018, 15:00:00",
+    "aoe_time": 1518944400.0,
+    "aoe_curr_time": "February 18, 2018, 17:00:00"
+  },
+  {
+    "des": "taking a walk",
+    "time": 1519034400.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 19, 2018, 18:00:00",
+    "aoe_time": 1518955200.0,
+    "aoe_curr_time": "February 18, 2018, 20:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1519041600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 20:00:00",
+    "aoe_time": 1518962400.0,
+    "aoe_curr_time": "February 18, 2018, 22:00:00"
+  },
+  {
+    "des": "watching TV",
+    "time": 1519045200.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 21:00:00",
+    "aoe_time": 1518966000.0,
+    "aoe_curr_time": "February 18, 2018, 23:00:00"
+  },
+  {
+    "des": "going to bed",
+    "time": 1519052400.0,
+    "poi": "4.",
+    "type": "event",
+    "acc_time": "February 19, 2018, 23:00:00",
+    "aoe_time": 1518973200.0,
+    "aoe_curr_time": "February 19, 2018, 01:00:00"
+  }
+]

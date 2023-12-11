@@ -1,0 +1,821 @@
+[
+  {
+    "des": "sleeping",
+    "time": 1518451200.0,
+    "poi": "1.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 00:00:00",
+    "aoe_time": 1518433200.0,
+    "aoe_curr_time": "February 12, 2018, 19:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518476400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 07:00:00",
+    "aoe_time": 1518458400.0,
+    "aoe_curr_time": "February 13, 2018, 02:00:00"
+  },
+  {
+    "des": "updating several tech blogs",
+    "time": 1518480000.0,
+    "poi": "8.3",
+    "type": "event",
+    "acc_time": "February 13, 2018, 08:00:00",
+    "aoe_time": 1518462000.0,
+    "aoe_curr_time": "February 13, 2018, 03:00:00"
+  },
+  {
+    "des": "having breakfast and morning coffee",
+    "time": 1518483600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 09:00:00",
+    "aoe_time": 1518465600.0,
+    "aoe_curr_time": "February 13, 2018, 04:00:00"
+  },
+  {
+    "des": "checking emerging tech trends",
+    "time": 1518487200.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 10:00:00",
+    "aoe_time": 1518469200.0,
+    "aoe_curr_time": "February 13, 2018, 05:00:00"
+  },
+  {
+    "des": "posting or writing tech reviews",
+    "time": 1518490800.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 11:00:00",
+    "aoe_time": 1518472800.0,
+    "aoe_curr_time": "February 13, 2018, 06:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518494400.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 12:00:00",
+    "aoe_time": 1518476400.0,
+    "aoe_curr_time": "February 13, 2018, 07:00:00"
+  },
+  {
+    "des": "continuing researching tech trends",
+    "time": 1518498000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 13:00:00",
+    "aoe_time": 1518480000.0,
+    "aoe_curr_time": "February 13, 2018, 08:00:00"
+  },
+  {
+    "des": "watching YouTube tech videos",
+    "time": 1518501600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 14:00:00",
+    "aoe_time": 1518483600.0,
+    "aoe_curr_time": "February 13, 2018, 09:00:00"
+  },
+  {
+    "des": "checking for new tech products",
+    "time": 1518505200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 15:00:00",
+    "aoe_time": 1518487200.0,
+    "aoe_curr_time": "February 13, 2018, 10:00:00"
+  },
+  {
+    "des": "going for a walk",
+    "time": 1518512400.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 17:00:00",
+    "aoe_time": 1518494400.0,
+    "aoe_curr_time": "February 13, 2018, 12:00:00"
+  },
+  {
+    "des": "checking for new tech products",
+    "time": 1518516000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 18:00:00",
+    "aoe_time": 1518498000.0,
+    "aoe_curr_time": "February 13, 2018, 13:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518519600.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 19:00:00",
+    "aoe_time": 1518501600.0,
+    "aoe_curr_time": "February 13, 2018, 14:00:00"
+  },
+  {
+    "des": "checking for new tech products",
+    "time": 1518523200.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 20:00:00",
+    "aoe_time": 1518505200.0,
+    "aoe_curr_time": "February 13, 2018, 15:00:00"
+  },
+  {
+    "des": "watching tech related movies",
+    "time": 1518526800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 21:00:00",
+    "aoe_time": 1518508800.0,
+    "aoe_curr_time": "February 13, 2018, 16:00:00"
+  },
+  {
+    "des": "checking for new tech products",
+    "time": 1518530400.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 22:00:00",
+    "aoe_time": 1518512400.0,
+    "aoe_curr_time": "February 13, 2018, 17:00:00"
+  },
+  {
+    "des": "preparing for bed",
+    "time": 1518534000.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 23:00:00",
+    "aoe_time": 1518516000.0,
+    "aoe_curr_time": "February 13, 2018, 18:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518537600.0,
+    "poi": "2.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 00:00:00",
+    "aoe_time": 1518519600.0,
+    "aoe_curr_time": "February 13, 2018, 19:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518566400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 08:00:00",
+    "aoe_time": 1518548400.0,
+    "aoe_curr_time": "February 14, 2018, 03:00:00"
+  },
+  {
+    "des": "reviewing and writing a blog post about the latest tech news",
+    "time": 1518570000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 09:00:00",
+    "aoe_time": 1518552000.0,
+    "aoe_curr_time": "February 14, 2018, 04:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518577200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 11:00:00",
+    "aoe_time": 1518559200.0,
+    "aoe_curr_time": "February 14, 2018, 06:00:00"
+  },
+  {
+    "des": "surfing the web and exploring emerging tech",
+    "time": 1518584400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 13:00:00",
+    "aoe_time": 1518566400.0,
+    "aoe_curr_time": "February 14, 2018, 08:00:00"
+  },
+  {
+    "des": "watching a YouTube video about the newest gadgets",
+    "time": 1518591600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 15:00:00",
+    "aoe_time": 1518573600.0,
+    "aoe_curr_time": "February 14, 2018, 10:00:00"
+  },
+  {
+    "des": "surfing the web and exploring emerging tech",
+    "time": 1518595200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 16:00:00",
+    "aoe_time": 1518577200.0,
+    "aoe_curr_time": "February 14, 2018, 11:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518598800.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 17:00:00",
+    "aoe_time": 1518580800.0,
+    "aoe_curr_time": "February 14, 2018, 12:00:00"
+  },
+  {
+    "des": "watching a YouTube video about the newest gadgets",
+    "time": 1518602400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 18:00:00",
+    "aoe_time": 1518584400.0,
+    "aoe_curr_time": "February 14, 2018, 13:00:00"
+  },
+  {
+    "des": "surfing the web and exploring emerging tech",
+    "time": 1518606000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 19:00:00",
+    "aoe_time": 1518588000.0,
+    "aoe_curr_time": "February 14, 2018, 14:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518609600.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 20:00:00",
+    "aoe_time": 1518591600.0,
+    "aoe_curr_time": "February 14, 2018, 15:00:00"
+  },
+  {
+    "des": "watching a movie",
+    "time": 1518613200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 21:00:00",
+    "aoe_time": 1518595200.0,
+    "aoe_curr_time": "February 14, 2018, 16:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518620400.0,
+    "poi": "1.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 23:00:00",
+    "aoe_time": 1518602400.0,
+    "aoe_curr_time": "February 14, 2018, 18:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518624000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 00:00:00",
+    "aoe_time": 1518606000.0,
+    "aoe_curr_time": "February 14, 2018, 19:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518652800.0,
+    "poi": "3.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 08:00:00",
+    "aoe_time": 1518634800.0,
+    "aoe_curr_time": "February 15, 2018, 03:00:00"
+  },
+  {
+    "des": "preparing a blog post in the tech industry",
+    "time": 1518656400.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 09:00:00",
+    "aoe_time": 1518638400.0,
+    "aoe_curr_time": "February 15, 2018, 04:00:00"
+  },
+  {
+    "des": "having a workout session",
+    "time": 1518660000.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 10:00:00",
+    "aoe_time": 1518642000.0,
+    "aoe_curr_time": "February 15, 2018, 05:00:00"
+  },
+  {
+    "des": "attending a networking event",
+    "time": 1518663600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 11:00:00",
+    "aoe_time": 1518645600.0,
+    "aoe_curr_time": "February 15, 2018, 06:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518667200.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 12:00:00",
+    "aoe_time": 1518649200.0,
+    "aoe_curr_time": "February 15, 2018, 07:00:00"
+  },
+  {
+    "des": "reviewing the latest gadgets",
+    "time": 1518670800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 13:00:00",
+    "aoe_time": 1518652800.0,
+    "aoe_curr_time": "February 15, 2018, 08:00:00"
+  },
+  {
+    "des": "attending a lecture on the future of tech",
+    "time": 1518678000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 15:00:00",
+    "aoe_time": 1518660000.0,
+    "aoe_curr_time": "February 15, 2018, 10:00:00"
+  },
+  {
+    "des": "participating in an online discussion",
+    "time": 1518685200.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 17:00:00",
+    "aoe_time": 1518667200.0,
+    "aoe_curr_time": "February 15, 2018, 12:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518688800.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 15, 2018, 18:00:00",
+    "aoe_time": 1518670800.0,
+    "aoe_curr_time": "February 15, 2018, 13:00:00"
+  },
+  {
+    "des": "spending time with family",
+    "time": 1518696000.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 20:00:00",
+    "aoe_time": 1518678000.0,
+    "aoe_curr_time": "February 15, 2018, 15:00:00"
+  },
+  {
+    "des": "writing a blog post",
+    "time": 1518703200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 22:00:00",
+    "aoe_time": 1518685200.0,
+    "aoe_curr_time": "February 15, 2018, 17:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518710400.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 00:00:00",
+    "aoe_time": 1518692400.0,
+    "aoe_curr_time": "February 15, 2018, 19:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518739200.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 08:00:00",
+    "aoe_time": 1518721200.0,
+    "aoe_curr_time": "February 16, 2018, 03:00:00"
+  },
+  {
+    "des": "working on a tech blog post",
+    "time": 1518742800.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 16, 2018, 09:00:00",
+    "aoe_time": 1518724800.0,
+    "aoe_curr_time": "February 16, 2018, 04:00:00"
+  },
+  {
+    "des": "taking a break for coffee",
+    "time": 1518746400.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 10:00:00",
+    "aoe_time": 1518728400.0,
+    "aoe_curr_time": "February 16, 2018, 05:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518753600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 12:00:00",
+    "aoe_time": 1518735600.0,
+    "aoe_curr_time": "February 16, 2018, 07:00:00"
+  },
+  {
+    "des": "researching new tech trends",
+    "time": 1518757200.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 13:00:00",
+    "aoe_time": 1518739200.0,
+    "aoe_curr_time": "February 16, 2018, 08:00:00"
+  },
+  {
+    "des": "writing a new article",
+    "time": 1518764400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 15:00:00",
+    "aoe_time": 1518746400.0,
+    "aoe_curr_time": "February 16, 2018, 10:00:00"
+  },
+  {
+    "des": "researching new tech trends",
+    "time": 1518768000.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 16:00:00",
+    "aoe_time": 1518750000.0,
+    "aoe_curr_time": "February 16, 2018, 11:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518771600.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 17:00:00",
+    "aoe_time": 1518753600.0,
+    "aoe_curr_time": "February 16, 2018, 12:00:00"
+  },
+  {
+    "des": "watching TV",
+    "time": 1518775200.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 16, 2018, 18:00:00",
+    "aoe_time": 1518757200.0,
+    "aoe_curr_time": "February 16, 2018, 13:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518778800.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 19:00:00",
+    "aoe_time": 1518760800.0,
+    "aoe_curr_time": "February 16, 2018, 14:00:00"
+  },
+  {
+    "des": "watching TV",
+    "time": 1518782400.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 20:00:00",
+    "aoe_time": 1518764400.0,
+    "aoe_curr_time": "February 16, 2018, 15:00:00"
+  },
+  {
+    "des": "watching a movie",
+    "time": 1518786000.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 21:00:00",
+    "aoe_time": 1518768000.0,
+    "aoe_curr_time": "February 16, 2018, 16:00:00"
+  },
+  {
+    "des": "getting ready for bed",
+    "time": 1518793200.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 23:00:00",
+    "aoe_time": 1518775200.0,
+    "aoe_curr_time": "February 16, 2018, 18:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518796800.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 00:00:00",
+    "aoe_time": 1518778800.0,
+    "aoe_curr_time": "February 16, 2018, 19:00:00"
+  },
+  {
+    "des": "waking up and completing morning routine",
+    "time": 1518822000.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 07:00:00",
+    "aoe_time": 1518804000.0,
+    "aoe_curr_time": "February 17, 2018, 02:00:00"
+  },
+  {
+    "des": "writing a blog post about the newest gadgets",
+    "time": 1518825600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 08:00:00",
+    "aoe_time": 1518807600.0,
+    "aoe_curr_time": "February 17, 2018, 03:00:00"
+  },
+  {
+    "des": "watching a video on the newest app innovations",
+    "time": 1518829200.0,
+    "poi": "9.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 09:00:00",
+    "aoe_time": 1518811200.0,
+    "aoe_curr_time": "February 17, 2018, 04:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518832800.0,
+    "poi": "5.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 10:00:00",
+    "aoe_time": 1518814800.0,
+    "aoe_curr_time": "February 17, 2018, 05:00:00"
+  },
+  {
+    "des": "going for a jog",
+    "time": 1518843600.0,
+    "poi": "6.2",
+    "type": "event",
+    "acc_time": "February 17, 2018, 13:00:00",
+    "aoe_time": 1518825600.0,
+    "aoe_curr_time": "February 17, 2018, 08:00:00"
+  },
+  {
+    "des": "doing a live streaming",
+    "time": 1518850800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 15:00:00",
+    "aoe_time": 1518832800.0,
+    "aoe_curr_time": "February 17, 2018, 10:00:00"
+  },
+  {
+    "des": "watching a movie",
+    "time": 1518858000.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 17:00:00",
+    "aoe_time": 1518840000.0,
+    "aoe_curr_time": "February 17, 2018, 12:00:00"
+  },
+  {
+    "des": "doing a live streaming",
+    "time": 1518861600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 18:00:00",
+    "aoe_time": 1518843600.0,
+    "aoe_curr_time": "February 17, 2018, 13:00:00"
+  },
+  {
+    "des": "watching a movie",
+    "time": 1518865200.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 19:00:00",
+    "aoe_time": 1518847200.0,
+    "aoe_curr_time": "February 17, 2018, 14:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518868800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 20:00:00",
+    "aoe_time": 1518850800.0,
+    "aoe_curr_time": "February 17, 2018, 15:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518883200.0,
+    "poi": "3.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 00:00:00",
+    "aoe_time": 1518865200.0,
+    "aoe_curr_time": "February 17, 2018, 19:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518904800.0,
+    "poi": "6",
+    "type": "event",
+    "acc_time": "February 18, 2018, 06:00:00",
+    "aoe_time": 1518886800.0,
+    "aoe_curr_time": "February 18, 2018, 01:00:00"
+  },
+  {
+    "des": "having breakfast",
+    "time": 1518908400.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 07:00:00",
+    "aoe_time": 1518890400.0,
+    "aoe_curr_time": "February 18, 2018, 02:00:00"
+  },
+  {
+    "des": "working on a blog post for his tech blog",
+    "time": 1518912000.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 18, 2018, 08:00:00",
+    "aoe_time": 1518894000.0,
+    "aoe_curr_time": "February 18, 2018, 03:00:00"
+  },
+  {
+    "des": "exploring new pieces of technology",
+    "time": 1518919200.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 10:00:00",
+    "aoe_time": 1518901200.0,
+    "aoe_curr_time": "February 18, 2018, 05:00:00"
+  },
+  {
+    "des": "working on a blog post for his tech blog",
+    "time": 1518922800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 11:00:00",
+    "aoe_time": 1518904800.0,
+    "aoe_curr_time": "February 18, 2018, 06:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518926400.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 12:00:00",
+    "aoe_time": 1518908400.0,
+    "aoe_curr_time": "February 18, 2018, 07:00:00"
+  },
+  {
+    "des": "exploring new pieces of technology",
+    "time": 1518930000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 13:00:00",
+    "aoe_time": 1518912000.0,
+    "aoe_curr_time": "February 18, 2018, 08:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518944400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 17:00:00",
+    "aoe_time": 1518926400.0,
+    "aoe_curr_time": "February 18, 2018, 12:00:00"
+  },
+  {
+    "des": "watching a tech related movie or show",
+    "time": 1518951600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 19:00:00",
+    "aoe_time": 1518933600.0,
+    "aoe_curr_time": "February 18, 2018, 14:00:00"
+  },
+  {
+    "des": "relaxing",
+    "time": 1518955200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 20:00:00",
+    "aoe_time": 1518937200.0,
+    "aoe_curr_time": "February 18, 2018, 15:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518962400.0,
+    "poi": "2.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 22:00:00",
+    "aoe_time": 1518944400.0,
+    "aoe_curr_time": "February 18, 2018, 17:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518969600.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 00:00:00",
+    "aoe_time": 1518951600.0,
+    "aoe_curr_time": "February 18, 2018, 19:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518998400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 08:00:00",
+    "aoe_time": 1518980400.0,
+    "aoe_curr_time": "February 19, 2018, 03:00:00"
+  },
+  {
+    "des": "working on his tech blog",
+    "time": 1519002000.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 19, 2018, 09:00:00",
+    "aoe_time": 1518984000.0,
+    "aoe_curr_time": "February 19, 2018, 04:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1519009200.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 11:00:00",
+    "aoe_time": 1518991200.0,
+    "aoe_curr_time": "February 19, 2018, 06:00:00"
+  },
+  {
+    "des": "writing articles for his blog",
+    "time": 1519016400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 13:00:00",
+    "aoe_time": 1518998400.0,
+    "aoe_curr_time": "February 19, 2018, 08:00:00"
+  },
+  {
+    "des": "watching and reviewing tech videos on YouTube",
+    "time": 1519023600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 15:00:00",
+    "aoe_time": 1519005600.0,
+    "aoe_curr_time": "February 19, 2018, 10:00:00"
+  },
+  {
+    "des": "connecting with peers through emails and forums",
+    "time": 1519027200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 16:00:00",
+    "aoe_time": 1519009200.0,
+    "aoe_curr_time": "February 19, 2018, 11:00:00"
+  },
+  {
+    "des": "taking a break and stretching",
+    "time": 1519030800.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 19, 2018, 17:00:00",
+    "aoe_time": 1519012800.0,
+    "aoe_curr_time": "February 19, 2018, 12:00:00"
+  },
+  {
+    "des": "writing content",
+    "time": 1519034400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 18:00:00",
+    "aoe_time": 1519016400.0,
+    "aoe_curr_time": "February 19, 2018, 13:00:00"
+  },
+  {
+    "des": "researching new gadgets",
+    "time": 1519038000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 19:00:00",
+    "aoe_time": 1519020000.0,
+    "aoe_curr_time": "February 19, 2018, 14:00:00"
+  },
+  {
+    "des": "eating dinner",
+    "time": 1519045200.0,
+    "poi": "5.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 21:00:00",
+    "aoe_time": 1519027200.0,
+    "aoe_curr_time": "February 19, 2018, 16:00:00"
+  },
+  {
+    "des": "reading articles and reviews",
+    "time": 1519052400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 23:00:00",
+    "aoe_time": 1519034400.0,
+    "aoe_curr_time": "February 19, 2018, 18:00:00"
+  }
+]

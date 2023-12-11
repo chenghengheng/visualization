@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "name": "John",
+    "age": 30,
+    "gender": 0,
+    "residency": "US",
+    "innate": "",
+    "lifestyle": "",
+    "avatar": "1.png"
+  },
+  {
+    "id": 1,
+    "name": "John",
+    "age": 30,
+    "gender": 0,
+    "residency": "US",
+    "innate": "",
+    "lifestyle": "",
+    "avatar": "2.png"
+  },
+  {
+    "id": 2,
+    "name": "John",
+    "age": 30,
+    "gender": 0,
+    "residency": "US",
+    "innate": "",
+    "lifestyle": "",
+    "avatar": "3.png"
+  },
+  {
+    "id": 3,
+    "name": "John",
+    "age": 30,
+    "gender": 0,
+    "residency": "US",
+    "innate": "",
+    "lifestyle": "",
+    "avatar": "4.png"
+  },
+  {
+    "id": 4,
+    "name": "John",
+    "age": 30,
+    "gender": 0,
+    "residency": "US",
+    "innate": "",
+    "lifestyle": "",
+    "avatar": "5.png"
+  },
+  {
+    "id": 5,
+    "name": "John",
+    "age": 30,
+    "gender": 0,
+    "residency": "US",
+    "innate": "",
+    "lifestyle": "",
+    "avatar": "6.png"
+  },
+  {
+    "id": 6,
+    "name": "John",
+    "age": 30,
+    "gender": 0,
+    "residency": "US",
+    "innate": "",
+    "lifestyle": "",
+    "avatar": "7.png"
+  }
+]

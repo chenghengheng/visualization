@@ -1,0 +1,677 @@
+[
+  {
+    "des": "sleeping",
+    "time": 1518451200.0,
+    "poi": "1.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 00:00:00",
+    "aoe_time": 1518426000.0,
+    "aoe_curr_time": "February 12, 2018, 17:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518480000.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 08:00:00",
+    "aoe_time": 1518454800.0,
+    "aoe_curr_time": "February 13, 2018, 01:00:00"
+  },
+  {
+    "des": "eating breakfast",
+    "time": 1518483600.0,
+    "poi": "5.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 09:00:00",
+    "aoe_time": 1518458400.0,
+    "aoe_curr_time": "February 13, 2018, 02:00:00"
+  },
+  {
+    "des": "engaging in philosophical and contemplative thought",
+    "time": 1518487200.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 10:00:00",
+    "aoe_time": 1518462000.0,
+    "aoe_curr_time": "February 13, 2018, 03:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518494400.0,
+    "poi": "5.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 12:00:00",
+    "aoe_time": 1518469200.0,
+    "aoe_curr_time": "February 13, 2018, 05:00:00"
+  },
+  {
+    "des": "engaging in philosophical and contemplative thought",
+    "time": 1518501600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 14:00:00",
+    "aoe_time": 1518476400.0,
+    "aoe_curr_time": "February 13, 2018, 07:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518512400.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 17:00:00",
+    "aoe_time": 1518487200.0,
+    "aoe_curr_time": "February 13, 2018, 10:00:00"
+  },
+  {
+    "des": "watching TV or reading a book",
+    "time": 1518519600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 19:00:00",
+    "aoe_time": 1518494400.0,
+    "aoe_curr_time": "February 13, 2018, 12:00:00"
+  },
+  {
+    "des": "engaging in philosophical and contemplative thought",
+    "time": 1518523200.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 20:00:00",
+    "aoe_time": 1518498000.0,
+    "aoe_curr_time": "February 13, 2018, 13:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518534000.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 23:00:00",
+    "aoe_time": 1518508800.0,
+    "aoe_curr_time": "February 13, 2018, 16:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518537600.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 00:00:00",
+    "aoe_time": 1518512400.0,
+    "aoe_curr_time": "February 13, 2018, 17:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518566400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 08:00:00",
+    "aoe_time": 1518541200.0,
+    "aoe_curr_time": "February 14, 2018, 01:00:00"
+  },
+  {
+    "des": "meeting with colleagues and discussing philosophical questions",
+    "time": 1518570000.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 09:00:00",
+    "aoe_time": 1518544800.0,
+    "aoe_curr_time": "February 14, 2018, 02:00:00"
+  },
+  {
+    "des": "going for a walk in a nearby park and observing nature",
+    "time": 1518577200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 11:00:00",
+    "aoe_time": 1518552000.0,
+    "aoe_curr_time": "February 14, 2018, 04:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518580800.0,
+    "poi": "3.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 12:00:00",
+    "aoe_time": 1518555600.0,
+    "aoe_curr_time": "February 14, 2018, 05:00:00"
+  },
+  {
+    "des": "meeting with colleagues and discussing philosophical questions",
+    "time": 1518584400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 13:00:00",
+    "aoe_time": 1518559200.0,
+    "aoe_curr_time": "February 14, 2018, 06:00:00"
+  },
+  {
+    "des": "going to the gym for some physical activity",
+    "time": 1518595200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 16:00:00",
+    "aoe_time": 1518570000.0,
+    "aoe_curr_time": "February 14, 2018, 09:00:00"
+  },
+  {
+    "des": "returning home for dinner",
+    "time": 1518602400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 18:00:00",
+    "aoe_time": 1518577200.0,
+    "aoe_curr_time": "February 14, 2018, 11:00:00"
+  },
+  {
+    "des": "spending some time reflecting and contemplating life's questions",
+    "time": 1518609600.0,
+    "poi": "9.2",
+    "type": "event",
+    "acc_time": "February 14, 2018, 20:00:00",
+    "aoe_time": 1518584400.0,
+    "aoe_curr_time": "February 14, 2018, 13:00:00"
+  },
+  {
+    "des": "reading a book before going to bed",
+    "time": 1518616800.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 22:00:00",
+    "aoe_time": 1518591600.0,
+    "aoe_curr_time": "February 14, 2018, 15:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518624000.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 00:00:00",
+    "aoe_time": 1518598800.0,
+    "aoe_curr_time": "February 14, 2018, 17:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518652800.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 08:00:00",
+    "aoe_time": 1518627600.0,
+    "aoe_curr_time": "February 15, 2018, 01:00:00"
+  },
+  {
+    "des": "taking an hour's walk in the park",
+    "time": 1518656400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 09:00:00",
+    "aoe_time": 1518631200.0,
+    "aoe_curr_time": "February 15, 2018, 02:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518663600.0,
+    "poi": "5.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 11:00:00",
+    "aoe_time": 1518638400.0,
+    "aoe_curr_time": "February 15, 2018, 04:00:00"
+  },
+  {
+    "des": "meditating",
+    "time": 1518670800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 13:00:00",
+    "aoe_time": 1518645600.0,
+    "aoe_curr_time": "February 15, 2018, 06:00:00"
+  },
+  {
+    "des": "reading books",
+    "time": 1518678000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 15:00:00",
+    "aoe_time": 1518652800.0,
+    "aoe_curr_time": "February 15, 2018, 08:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518685200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 17:00:00",
+    "aoe_time": 1518660000.0,
+    "aoe_curr_time": "February 15, 2018, 10:00:00"
+  },
+  {
+    "des": "watching TV",
+    "time": 1518696000.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 20:00:00",
+    "aoe_time": 1518670800.0,
+    "aoe_curr_time": "February 15, 2018, 13:00:00"
+  },
+  {
+    "des": "going to bed",
+    "time": 1518703200.0,
+    "poi": "3.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 22:00:00",
+    "aoe_time": 1518678000.0,
+    "aoe_curr_time": "February 15, 2018, 15:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518710400.0,
+    "poi": "2.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 00:00:00",
+    "aoe_time": 1518685200.0,
+    "aoe_curr_time": "February 15, 2018, 17:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518739200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 08:00:00",
+    "aoe_time": 1518714000.0,
+    "aoe_curr_time": "February 16, 2018, 01:00:00"
+  },
+  {
+    "des": "reading and journaling",
+    "time": 1518742800.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 09:00:00",
+    "aoe_time": 1518717600.0,
+    "aoe_curr_time": "February 16, 2018, 02:00:00"
+  },
+  {
+    "des": "enjoying a morning walk in the park",
+    "time": 1518746400.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 10:00:00",
+    "aoe_time": 1518721200.0,
+    "aoe_curr_time": "February 16, 2018, 03:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518750000.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 11:00:00",
+    "aoe_time": 1518724800.0,
+    "aoe_curr_time": "February 16, 2018, 04:00:00"
+  },
+  {
+    "des": "conversing with friends",
+    "time": 1518757200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 13:00:00",
+    "aoe_time": 1518732000.0,
+    "aoe_curr_time": "February 16, 2018, 06:00:00"
+  },
+  {
+    "des": "taking a nap",
+    "time": 1518764400.0,
+    "poi": "8.3",
+    "type": "event",
+    "acc_time": "February 16, 2018, 15:00:00",
+    "aoe_time": 1518739200.0,
+    "aoe_curr_time": "February 16, 2018, 08:00:00"
+  },
+  {
+    "des": "attending a lecture",
+    "time": 1518771600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 17:00:00",
+    "aoe_time": 1518746400.0,
+    "aoe_curr_time": "February 16, 2018, 10:00:00"
+  },
+  {
+    "des": "watching TV",
+    "time": 1518775200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 18:00:00",
+    "aoe_time": 1518750000.0,
+    "aoe_curr_time": "February 16, 2018, 11:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518782400.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 20:00:00",
+    "aoe_time": 1518757200.0,
+    "aoe_curr_time": "February 16, 2018, 13:00:00"
+  },
+  {
+    "des": "spending time with family",
+    "time": 1518789600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 22:00:00",
+    "aoe_time": 1518764400.0,
+    "aoe_curr_time": "February 16, 2018, 15:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518796800.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 00:00:00",
+    "aoe_time": 1518771600.0,
+    "aoe_curr_time": "February 16, 2018, 17:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518825600.0,
+    "poi": "5.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 08:00:00",
+    "aoe_time": 1518800400.0,
+    "aoe_curr_time": "February 17, 2018, 01:00:00"
+  },
+  {
+    "des": "meditating to clear his mind",
+    "time": 1518829200.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 09:00:00",
+    "aoe_time": 1518804000.0,
+    "aoe_curr_time": "February 17, 2018, 02:00:00"
+  },
+  {
+    "des": "writing a philosophical essay",
+    "time": 1518832800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 10:00:00",
+    "aoe_time": 1518807600.0,
+    "aoe_curr_time": "February 17, 2018, 03:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518836400.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 11:00:00",
+    "aoe_time": 1518811200.0,
+    "aoe_curr_time": "February 17, 2018, 04:00:00"
+  },
+  {
+    "des": "going for a walk in the park",
+    "time": 1518843600.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 13:00:00",
+    "aoe_time": 1518818400.0,
+    "aoe_curr_time": "February 17, 2018, 06:00:00"
+  },
+  {
+    "des": "spending time analyzing life's enigmatic questions and solutions",
+    "time": 1518847200.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 14:00:00",
+    "aoe_time": 1518822000.0,
+    "aoe_curr_time": "February 17, 2018, 07:00:00"
+  },
+  {
+    "des": "going for a walk in the park",
+    "time": 1518850800.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 17, 2018, 15:00:00",
+    "aoe_time": 1518825600.0,
+    "aoe_curr_time": "February 17, 2018, 08:00:00"
+  },
+  {
+    "des": "spending time analyzing life's enigmatic questions and solutions",
+    "time": 1518854400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 16:00:00",
+    "aoe_time": 1518829200.0,
+    "aoe_curr_time": "February 17, 2018, 09:00:00"
+  },
+  {
+    "des": "cooking dinner",
+    "time": 1518858000.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 17, 2018, 17:00:00",
+    "aoe_time": 1518832800.0,
+    "aoe_curr_time": "February 17, 2018, 10:00:00"
+  },
+  {
+    "des": "spending time analyzing life's enigmatic questions and solutions",
+    "time": 1518861600.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 18:00:00",
+    "aoe_time": 1518836400.0,
+    "aoe_curr_time": "February 17, 2018, 11:00:00"
+  },
+  {
+    "des": "cooking dinner",
+    "time": 1518865200.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 19:00:00",
+    "aoe_time": 1518840000.0,
+    "aoe_curr_time": "February 17, 2018, 12:00:00"
+  },
+  {
+    "des": "reading a book to stimulate the mind",
+    "time": 1518868800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 20:00:00",
+    "aoe_time": 1518843600.0,
+    "aoe_curr_time": "February 17, 2018, 13:00:00"
+  },
+  {
+    "des": "going to bed",
+    "time": 1518876000.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 22:00:00",
+    "aoe_time": 1518850800.0,
+    "aoe_curr_time": "February 17, 2018, 15:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518883200.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 00:00:00",
+    "aoe_time": 1518858000.0,
+    "aoe_curr_time": "February 17, 2018, 17:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518912000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 08:00:00",
+    "aoe_time": 1518886800.0,
+    "aoe_curr_time": "February 18, 2018, 01:00:00"
+  },
+  {
+    "des": "researching philosophy topics",
+    "time": 1518915600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 09:00:00",
+    "aoe_time": 1518890400.0,
+    "aoe_curr_time": "February 18, 2018, 02:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518922800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 11:00:00",
+    "aoe_time": 1518897600.0,
+    "aoe_curr_time": "February 18, 2018, 04:00:00"
+  },
+  {
+    "des": "reading a book",
+    "time": 1518930000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 13:00:00",
+    "aoe_time": 1518904800.0,
+    "aoe_curr_time": "February 18, 2018, 06:00:00"
+  },
+  {
+    "des": "going for a walk to clear his mind",
+    "time": 1518940800.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 16:00:00",
+    "aoe_time": 1518915600.0,
+    "aoe_curr_time": "February 18, 2018, 09:00:00"
+  },
+  {
+    "des": "spending time with family",
+    "time": 1518944400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 17:00:00",
+    "aoe_time": 1518919200.0,
+    "aoe_curr_time": "February 18, 2018, 10:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518955200.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 20:00:00",
+    "aoe_time": 1518930000.0,
+    "aoe_curr_time": "February 18, 2018, 13:00:00"
+  },
+  {
+    "des": "meditating",
+    "time": 1518962400.0,
+    "poi": "9.2",
+    "type": "event",
+    "acc_time": "February 18, 2018, 22:00:00",
+    "aoe_time": 1518937200.0,
+    "aoe_curr_time": "February 18, 2018, 15:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518966000.0,
+    "poi": "2.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 23:00:00",
+    "aoe_time": 1518940800.0,
+    "aoe_curr_time": "February 18, 2018, 16:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518969600.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 00:00:00",
+    "aoe_time": 1518944400.0,
+    "aoe_curr_time": "February 18, 2018, 17:00:00"
+  },
+  {
+    "des": "waking up and completing the morning routine",
+    "time": 1518998400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 08:00:00",
+    "aoe_time": 1518973200.0,
+    "aoe_curr_time": "February 19, 2018, 01:00:00"
+  },
+  {
+    "des": "analyzing the news from today in the world",
+    "time": 1519002000.0,
+    "poi": "7.3",
+    "type": "event",
+    "acc_time": "February 19, 2018, 09:00:00",
+    "aoe_time": 1518976800.0,
+    "aoe_curr_time": "February 19, 2018, 02:00:00"
+  },
+  {
+    "des": "going for an hour-long walk in the park",
+    "time": 1519005600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 10:00:00",
+    "aoe_time": 1518980400.0,
+    "aoe_curr_time": "February 19, 2018, 03:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1519009200.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 11:00:00",
+    "aoe_time": 1518984000.0,
+    "aoe_curr_time": "February 19, 2018, 04:00:00"
+  },
+  {
+    "des": "reading a book",
+    "time": 1519016400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 13:00:00",
+    "aoe_time": 1518991200.0,
+    "aoe_curr_time": "February 19, 2018, 06:00:00"
+  },
+  {
+    "des": "writing a blog post",
+    "time": 1519023600.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 15:00:00",
+    "aoe_time": 1518998400.0,
+    "aoe_curr_time": "February 19, 2018, 08:00:00"
+  },
+  {
+    "des": "working on a new philosophical idea",
+    "time": 1519027200.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 16:00:00",
+    "aoe_time": 1519002000.0,
+    "aoe_curr_time": "February 19, 2018, 09:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1519030800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 17:00:00",
+    "aoe_time": 1519005600.0,
+    "aoe_curr_time": "February 19, 2018, 10:00:00"
+  },
+  {
+    "des": "spending time with family",
+    "time": 1519041600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 20:00:00",
+    "aoe_time": 1519016400.0,
+    "aoe_curr_time": "February 19, 2018, 13:00:00"
+  },
+  {
+    "des": "getting ready for bed",
+    "time": 1519052400.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 23:00:00",
+    "aoe_time": 1519027200.0,
+    "aoe_curr_time": "February 19, 2018, 16:00:00"
+  }
+]

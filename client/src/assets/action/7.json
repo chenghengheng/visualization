@@ -1,0 +1,749 @@
+[
+  {
+    "des": "sleeping",
+    "time": 1518451200.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 00:00:00",
+    "aoe_time": 1518444000.0,
+    "aoe_curr_time": "February 12, 2018, 22:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518480000.0,
+    "poi": "2.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 08:00:00",
+    "aoe_time": 1518472800.0,
+    "aoe_curr_time": "February 13, 2018, 06:00:00"
+  },
+  {
+    "des": "attending a fashion show",
+    "time": 1518483600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 09:00:00",
+    "aoe_time": 1518476400.0,
+    "aoe_curr_time": "February 13, 2018, 07:00:00"
+  },
+  {
+    "des": "having lunch with friends",
+    "time": 1518494400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 12:00:00",
+    "aoe_time": 1518487200.0,
+    "aoe_curr_time": "February 13, 2018, 10:00:00"
+  },
+  {
+    "des": "taking a two-hour break and recharging",
+    "time": 1518498000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 13:00:00",
+    "aoe_time": 1518490800.0,
+    "aoe_curr_time": "February 13, 2018, 11:00:00"
+  },
+  {
+    "des": "submitting her latest blog post",
+    "time": 1518505200.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 15:00:00",
+    "aoe_time": 1518498000.0,
+    "aoe_curr_time": "February 13, 2018, 13:00:00"
+  },
+  {
+    "des": "taking a two-hour break and recharging",
+    "time": 1518508800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 16:00:00",
+    "aoe_time": 1518501600.0,
+    "aoe_curr_time": "February 13, 2018, 14:00:00"
+  },
+  {
+    "des": "submitting her latest blog post",
+    "time": 1518512400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 17:00:00",
+    "aoe_time": 1518505200.0,
+    "aoe_curr_time": "February 13, 2018, 15:00:00"
+  },
+  {
+    "des": "meeting up with friends",
+    "time": 1518516000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 18:00:00",
+    "aoe_time": 1518508800.0,
+    "aoe_curr_time": "February 13, 2018, 16:00:00"
+  },
+  {
+    "des": "having dinner with friends",
+    "time": 1518526800.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 21:00:00",
+    "aoe_time": 1518519600.0,
+    "aoe_curr_time": "February 13, 2018, 19:00:00"
+  },
+  {
+    "des": "watching a movie with friends",
+    "time": 1518530400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 22:00:00",
+    "aoe_time": 1518523200.0,
+    "aoe_curr_time": "February 13, 2018, 20:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518534000.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 23:00:00",
+    "aoe_time": 1518526800.0,
+    "aoe_curr_time": "February 13, 2018, 21:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518537600.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 00:00:00",
+    "aoe_time": 1518530400.0,
+    "aoe_curr_time": "February 13, 2018, 22:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518570000.0,
+    "poi": "3.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 09:00:00",
+    "aoe_time": 1518562800.0,
+    "aoe_curr_time": "February 14, 2018, 07:00:00"
+  },
+  {
+    "des": "attending a fashion event",
+    "time": 1518573600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 10:00:00",
+    "aoe_time": 1518566400.0,
+    "aoe_curr_time": "February 14, 2018, 08:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518577200.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 11:00:00",
+    "aoe_time": 1518570000.0,
+    "aoe_curr_time": "February 14, 2018, 09:00:00"
+  },
+  {
+    "des": "attending a fashion event",
+    "time": 1518584400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 13:00:00",
+    "aoe_time": 1518577200.0,
+    "aoe_curr_time": "February 14, 2018, 11:00:00"
+  },
+  {
+    "des": "attending a photoshoot",
+    "time": 1518591600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 15:00:00",
+    "aoe_time": 1518584400.0,
+    "aoe_curr_time": "February 14, 2018, 13:00:00"
+  },
+  {
+    "des": "working on her blog and social media",
+    "time": 1518598800.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 17:00:00",
+    "aoe_time": 1518591600.0,
+    "aoe_curr_time": "February 14, 2018, 15:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518613200.0,
+    "poi": "3.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 21:00:00",
+    "aoe_time": 1518606000.0,
+    "aoe_curr_time": "February 14, 2018, 19:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518624000.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 00:00:00",
+    "aoe_time": 1518616800.0,
+    "aoe_curr_time": "February 14, 2018, 22:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518652800.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 08:00:00",
+    "aoe_time": 1518645600.0,
+    "aoe_curr_time": "February 15, 2018, 06:00:00"
+  },
+  {
+    "des": "writing a blog post",
+    "time": 1518656400.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 15, 2018, 09:00:00",
+    "aoe_time": 1518649200.0,
+    "aoe_curr_time": "February 15, 2018, 07:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518667200.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 12:00:00",
+    "aoe_time": 1518660000.0,
+    "aoe_curr_time": "February 15, 2018, 10:00:00"
+  },
+  {
+    "des": "attending a fashion event",
+    "time": 1518670800.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 13:00:00",
+    "aoe_time": 1518663600.0,
+    "aoe_curr_time": "February 15, 2018, 11:00:00"
+  },
+  {
+    "des": "curating fashion looks for her blog",
+    "time": 1518678000.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 15:00:00",
+    "aoe_time": 1518670800.0,
+    "aoe_curr_time": "February 15, 2018, 13:00:00"
+  },
+  {
+    "des": "attending a fashion event",
+    "time": 1518681600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 16:00:00",
+    "aoe_time": 1518674400.0,
+    "aoe_curr_time": "February 15, 2018, 14:00:00"
+  },
+  {
+    "des": "curating fashion looks for her blog",
+    "time": 1518688800.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 18:00:00",
+    "aoe_time": 1518681600.0,
+    "aoe_curr_time": "February 15, 2018, 16:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518692400.0,
+    "poi": "7.4",
+    "type": "event",
+    "acc_time": "February 15, 2018, 19:00:00",
+    "aoe_time": 1518685200.0,
+    "aoe_curr_time": "February 15, 2018, 17:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518696000.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 20:00:00",
+    "aoe_time": 1518688800.0,
+    "aoe_curr_time": "February 15, 2018, 18:00:00"
+  },
+  {
+    "des": "curating fashion looks for her blog",
+    "time": 1518699600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 21:00:00",
+    "aoe_time": 1518692400.0,
+    "aoe_curr_time": "February 15, 2018, 19:00:00"
+  },
+  {
+    "des": "relaxing and watching a movie",
+    "time": 1518703200.0,
+    "poi": "5.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 22:00:00",
+    "aoe_time": 1518696000.0,
+    "aoe_curr_time": "February 15, 2018, 20:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518706800.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 23:00:00",
+    "aoe_time": 1518699600.0,
+    "aoe_curr_time": "February 15, 2018, 21:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518710400.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 00:00:00",
+    "aoe_time": 1518703200.0,
+    "aoe_curr_time": "February 15, 2018, 22:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518739200.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 08:00:00",
+    "aoe_time": 1518732000.0,
+    "aoe_curr_time": "February 16, 2018, 06:00:00"
+  },
+  {
+    "des": "having breakfast",
+    "time": 1518742800.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 09:00:00",
+    "aoe_time": 1518735600.0,
+    "aoe_curr_time": "February 16, 2018, 07:00:00"
+  },
+  {
+    "des": "writing blog posts and creating content for her fashion blog",
+    "time": 1518746400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 10:00:00",
+    "aoe_time": 1518739200.0,
+    "aoe_curr_time": "February 16, 2018, 08:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518753600.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 12:00:00",
+    "aoe_time": 1518746400.0,
+    "aoe_curr_time": "February 16, 2018, 10:00:00"
+  },
+  {
+    "des": "walking around the city and looking for new fashion trends",
+    "time": 1518757200.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 13:00:00",
+    "aoe_time": 1518750000.0,
+    "aoe_curr_time": "February 16, 2018, 11:00:00"
+  },
+  {
+    "des": "having coffee and getting ready for the fashion event",
+    "time": 1518768000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 16:00:00",
+    "aoe_time": 1518760800.0,
+    "aoe_curr_time": "February 16, 2018, 14:00:00"
+  },
+  {
+    "des": "attending the fashion event",
+    "time": 1518775200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 18:00:00",
+    "aoe_time": 1518768000.0,
+    "aoe_curr_time": "February 16, 2018, 16:00:00"
+  },
+  {
+    "des": "posting about the event on the blog / social media",
+    "time": 1518782400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 20:00:00",
+    "aoe_time": 1518775200.0,
+    "aoe_curr_time": "February 16, 2018, 18:00:00"
+  },
+  {
+    "des": "writing blog posts and creating content for her fashion blog",
+    "time": 1518789600.0,
+    "poi": "8.1",
+    "type": "event",
+    "acc_time": "February 16, 2018, 22:00:00",
+    "aoe_time": 1518782400.0,
+    "aoe_curr_time": "February 16, 2018, 20:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518796800.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 00:00:00",
+    "aoe_time": 1518789600.0,
+    "aoe_curr_time": "February 16, 2018, 22:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518825600.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 08:00:00",
+    "aoe_time": 1518818400.0,
+    "aoe_curr_time": "February 17, 2018, 06:00:00"
+  },
+  {
+    "des": "creating trendy fashion looks and content for the blog",
+    "time": 1518829200.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 17, 2018, 09:00:00",
+    "aoe_time": 1518822000.0,
+    "aoe_curr_time": "February 17, 2018, 07:00:00"
+  },
+  {
+    "des": "sharing the content and pictures on her social media pages",
+    "time": 1518832800.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 10:00:00",
+    "aoe_time": 1518825600.0,
+    "aoe_curr_time": "February 17, 2018, 08:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518836400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 11:00:00",
+    "aoe_time": 1518829200.0,
+    "aoe_curr_time": "February 17, 2018, 09:00:00"
+  },
+  {
+    "des": "attending a Mario Testino exhibit",
+    "time": 1518843600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 13:00:00",
+    "aoe_time": 1518836400.0,
+    "aoe_curr_time": "February 17, 2018, 11:00:00"
+  },
+  {
+    "des": "attending a fashion bloggers networking session",
+    "time": 1518850800.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 15:00:00",
+    "aoe_time": 1518843600.0,
+    "aoe_curr_time": "February 17, 2018, 13:00:00"
+  },
+  {
+    "des": "attending a Mario Testino exhibit",
+    "time": 1518854400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 16:00:00",
+    "aoe_time": 1518847200.0,
+    "aoe_curr_time": "February 17, 2018, 14:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518858000.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 17:00:00",
+    "aoe_time": 1518850800.0,
+    "aoe_curr_time": "February 17, 2018, 15:00:00"
+  },
+  {
+    "des": "attending a fashion bloggers networking session",
+    "time": 1518861600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 18:00:00",
+    "aoe_time": 1518854400.0,
+    "aoe_curr_time": "February 17, 2018, 16:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518865200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 19:00:00",
+    "aoe_time": 1518858000.0,
+    "aoe_curr_time": "February 17, 2018, 17:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518868800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 20:00:00",
+    "aoe_time": 1518861600.0,
+    "aoe_curr_time": "February 17, 2018, 18:00:00"
+  },
+  {
+    "des": "relaxing and watching a movie",
+    "time": 1518872400.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 21:00:00",
+    "aoe_time": 1518865200.0,
+    "aoe_curr_time": "February 17, 2018, 19:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518879600.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 23:00:00",
+    "aoe_time": 1518872400.0,
+    "aoe_curr_time": "February 17, 2018, 21:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518883200.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 00:00:00",
+    "aoe_time": 1518876000.0,
+    "aoe_curr_time": "February 17, 2018, 22:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518912000.0,
+    "poi": "3.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 08:00:00",
+    "aoe_time": 1518904800.0,
+    "aoe_curr_time": "February 18, 2018, 06:00:00"
+  },
+  {
+    "des": "working on her blog",
+    "time": 1518915600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 09:00:00",
+    "aoe_time": 1518908400.0,
+    "aoe_curr_time": "February 18, 2018, 07:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518922800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 11:00:00",
+    "aoe_time": 1518915600.0,
+    "aoe_curr_time": "February 18, 2018, 09:00:00"
+  },
+  {
+    "des": "attending a fashion event",
+    "time": 1518930000.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 13:00:00",
+    "aoe_time": 1518922800.0,
+    "aoe_curr_time": "February 18, 2018, 11:00:00"
+  },
+  {
+    "des": "curating fashion looks and taking pictures of them",
+    "time": 1518937200.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 18, 2018, 15:00:00",
+    "aoe_time": 1518930000.0,
+    "aoe_curr_time": "February 18, 2018, 13:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518944400.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 17:00:00",
+    "aoe_time": 1518937200.0,
+    "aoe_curr_time": "February 18, 2018, 15:00:00"
+  },
+  {
+    "des": "watching TV",
+    "time": 1518951600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 19:00:00",
+    "aoe_time": 1518944400.0,
+    "aoe_curr_time": "February 18, 2018, 17:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518955200.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 20:00:00",
+    "aoe_time": 1518948000.0,
+    "aoe_curr_time": "February 18, 2018, 18:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518958800.0,
+    "poi": "2.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 21:00:00",
+    "aoe_time": 1518951600.0,
+    "aoe_curr_time": "February 18, 2018, 19:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518969600.0,
+    "poi": "1.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 00:00:00",
+    "aoe_time": 1518962400.0,
+    "aoe_curr_time": "February 18, 2018, 22:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518994800.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 07:00:00",
+    "aoe_time": 1518987600.0,
+    "aoe_curr_time": "February 19, 2018, 05:00:00"
+  },
+  {
+    "des": "writing a blog post summarizing yesterday\u2019s fashion event",
+    "time": 1518998400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 08:00:00",
+    "aoe_time": 1518991200.0,
+    "aoe_curr_time": "February 19, 2018, 06:00:00"
+  },
+  {
+    "des": "having brunch with friends",
+    "time": 1519002000.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 19, 2018, 09:00:00",
+    "aoe_time": 1518994800.0,
+    "aoe_curr_time": "February 19, 2018, 07:00:00"
+  },
+  {
+    "des": "attending a fashion show event",
+    "time": 1519005600.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 10:00:00",
+    "aoe_time": 1518998400.0,
+    "aoe_curr_time": "February 19, 2018, 08:00:00"
+  },
+  {
+    "des": "marketing her blog post and adding new content to the blog",
+    "time": 1519009200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 11:00:00",
+    "aoe_time": 1519002000.0,
+    "aoe_curr_time": "February 19, 2018, 09:00:00"
+  },
+  {
+    "des": "having brunch with friends",
+    "time": 1519012800.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 12:00:00",
+    "aoe_time": 1519005600.0,
+    "aoe_curr_time": "February 19, 2018, 10:00:00"
+  },
+  {
+    "des": "shopping for new clothes",
+    "time": 1519016400.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 19, 2018, 13:00:00",
+    "aoe_time": 1519009200.0,
+    "aoe_curr_time": "February 19, 2018, 11:00:00"
+  },
+  {
+    "des": "attending a fashion show event",
+    "time": 1519023600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 15:00:00",
+    "aoe_time": 1519016400.0,
+    "aoe_curr_time": "February 19, 2018, 13:00:00"
+  },
+  {
+    "des": "posting a video on her social media account on the experience",
+    "time": 1519027200.0,
+    "poi": "9.2",
+    "type": "event",
+    "acc_time": "February 19, 2018, 16:00:00",
+    "aoe_time": 1519020000.0,
+    "aoe_curr_time": "February 19, 2018, 14:00:00"
+  },
+  {
+    "des": "spending time with loved ones",
+    "time": 1519030800.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 17:00:00",
+    "aoe_time": 1519023600.0,
+    "aoe_curr_time": "February 19, 2018, 15:00:00"
+  },
+  {
+    "des": "shopping for new clothes",
+    "time": 1519034400.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 18:00:00",
+    "aoe_time": 1519027200.0,
+    "aoe_curr_time": "February 19, 2018, 16:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1519038000.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 19:00:00",
+    "aoe_time": 1519030800.0,
+    "aoe_curr_time": "February 19, 2018, 17:00:00"
+  },
+  {
+    "des": "posting a video on her social media account on the experience",
+    "time": 1519041600.0,
+    "poi": "9",
+    "type": "event",
+    "acc_time": "February 19, 2018, 20:00:00",
+    "aoe_time": 1519034400.0,
+    "aoe_curr_time": "February 19, 2018, 18:00:00"
+  },
+  {
+    "des": "spending time with loved ones",
+    "time": 1519045200.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 21:00:00",
+    "aoe_time": 1519038000.0,
+    "aoe_curr_time": "February 19, 2018, 19:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1519048800.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 22:00:00",
+    "aoe_time": 1519041600.0,
+    "aoe_curr_time": "February 19, 2018, 20:00:00"
+  }
+]

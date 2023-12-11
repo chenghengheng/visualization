@@ -1,0 +1,758 @@
+[
+  {
+    "des": "sleeping",
+    "time": 1518451200.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 00:00:00",
+    "aoe_time": 1518436800.0,
+    "aoe_curr_time": "February 12, 2018, 20:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518476400.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 07:00:00",
+    "aoe_time": 1518462000.0,
+    "aoe_curr_time": "February 13, 2018, 03:00:00"
+  },
+  {
+    "des": "getting ready for work",
+    "time": 1518480000.0,
+    "poi": "5.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 08:00:00",
+    "aoe_time": 1518465600.0,
+    "aoe_curr_time": "February 13, 2018, 04:00:00"
+  },
+  {
+    "des": "at work analyzing data trends",
+    "time": 1518483600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 09:00:00",
+    "aoe_time": 1518469200.0,
+    "aoe_curr_time": "February 13, 2018, 05:00:00"
+  },
+  {
+    "des": "analyzing data trends",
+    "time": 1518487200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 10:00:00",
+    "aoe_time": 1518472800.0,
+    "aoe_curr_time": "February 13, 2018, 06:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518494400.0,
+    "poi": "5.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 12:00:00",
+    "aoe_time": 1518480000.0,
+    "aoe_curr_time": "February 13, 2018, 08:00:00"
+  },
+  {
+    "des": "analyzing data trends",
+    "time": 1518498000.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 13:00:00",
+    "aoe_time": 1518483600.0,
+    "aoe_curr_time": "February 13, 2018, 09:00:00"
+  },
+  {
+    "des": "taking a break and going for a hike",
+    "time": 1518505200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 15:00:00",
+    "aoe_time": 1518490800.0,
+    "aoe_curr_time": "February 13, 2018, 11:00:00"
+  },
+  {
+    "des": "analyzing data trends",
+    "time": 1518508800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 16:00:00",
+    "aoe_time": 1518494400.0,
+    "aoe_curr_time": "February 13, 2018, 12:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518512400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 17:00:00",
+    "aoe_time": 1518498000.0,
+    "aoe_curr_time": "February 13, 2018, 13:00:00"
+  },
+  {
+    "des": "taking a break and going for a hike",
+    "time": 1518516000.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 18:00:00",
+    "aoe_time": 1518501600.0,
+    "aoe_curr_time": "February 13, 2018, 14:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518519600.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 19:00:00",
+    "aoe_time": 1518505200.0,
+    "aoe_curr_time": "February 13, 2018, 15:00:00"
+  },
+  {
+    "des": "watching TV",
+    "time": 1518523200.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 20:00:00",
+    "aoe_time": 1518508800.0,
+    "aoe_curr_time": "February 13, 2018, 16:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518530400.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 22:00:00",
+    "aoe_time": 1518516000.0,
+    "aoe_curr_time": "February 13, 2018, 18:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518537600.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 00:00:00",
+    "aoe_time": 1518523200.0,
+    "aoe_curr_time": "February 13, 2018, 20:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518562800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 07:00:00",
+    "aoe_time": 1518548400.0,
+    "aoe_curr_time": "February 14, 2018, 03:00:00"
+  },
+  {
+    "des": "working",
+    "time": 1518566400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 08:00:00",
+    "aoe_time": 1518552000.0,
+    "aoe_curr_time": "February 14, 2018, 04:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518573600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 10:00:00",
+    "aoe_time": 1518559200.0,
+    "aoe_curr_time": "February 14, 2018, 06:00:00"
+  },
+  {
+    "des": "working",
+    "time": 1518577200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 11:00:00",
+    "aoe_time": 1518562800.0,
+    "aoe_curr_time": "February 14, 2018, 07:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518580800.0,
+    "poi": "6.2",
+    "type": "event",
+    "acc_time": "February 14, 2018, 12:00:00",
+    "aoe_time": 1518566400.0,
+    "aoe_curr_time": "February 14, 2018, 08:00:00"
+  },
+  {
+    "des": "analyzing data trends",
+    "time": 1518584400.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 14, 2018, 13:00:00",
+    "aoe_time": 1518570000.0,
+    "aoe_curr_time": "February 14, 2018, 09:00:00"
+  },
+  {
+    "des": "going on a hike",
+    "time": 1518595200.0,
+    "poi": "6.8",
+    "type": "event",
+    "acc_time": "February 14, 2018, 16:00:00",
+    "aoe_time": 1518580800.0,
+    "aoe_curr_time": "February 14, 2018, 12:00:00"
+  },
+  {
+    "des": "watching TV",
+    "time": 1518602400.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 18:00:00",
+    "aoe_time": 1518588000.0,
+    "aoe_curr_time": "February 14, 2018, 14:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518606000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 19:00:00",
+    "aoe_time": 1518591600.0,
+    "aoe_curr_time": "February 14, 2018, 15:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518609600.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 20:00:00",
+    "aoe_time": 1518595200.0,
+    "aoe_curr_time": "February 14, 2018, 16:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518624000.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 00:00:00",
+    "aoe_time": 1518609600.0,
+    "aoe_curr_time": "February 14, 2018, 20:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518645600.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 15, 2018, 06:00:00",
+    "aoe_time": 1518631200.0,
+    "aoe_curr_time": "February 15, 2018, 02:00:00"
+  },
+  {
+    "des": "checking her emails and reviewing current data trends",
+    "time": 1518649200.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 07:00:00",
+    "aoe_time": 1518634800.0,
+    "aoe_curr_time": "February 15, 2018, 03:00:00"
+  },
+  {
+    "des": "attending a weekly team meeting",
+    "time": 1518656400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 09:00:00",
+    "aoe_time": 1518642000.0,
+    "aoe_curr_time": "February 15, 2018, 05:00:00"
+  },
+  {
+    "des": "analyzing data",
+    "time": 1518660000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 10:00:00",
+    "aoe_time": 1518645600.0,
+    "aoe_curr_time": "February 15, 2018, 06:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518663600.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 11:00:00",
+    "aoe_time": 1518649200.0,
+    "aoe_curr_time": "February 15, 2018, 07:00:00"
+  },
+  {
+    "des": "analyzing data",
+    "time": 1518670800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 13:00:00",
+    "aoe_time": 1518656400.0,
+    "aoe_curr_time": "February 15, 2018, 09:00:00"
+  },
+  {
+    "des": "going on an afternoon hike",
+    "time": 1518681600.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 16:00:00",
+    "aoe_time": 1518667200.0,
+    "aoe_curr_time": "February 15, 2018, 12:00:00"
+  },
+  {
+    "des": "checking emails or watching TV",
+    "time": 1518685200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 17:00:00",
+    "aoe_time": 1518670800.0,
+    "aoe_curr_time": "February 15, 2018, 13:00:00"
+  },
+  {
+    "des": "cooking dinner",
+    "time": 1518692400.0,
+    "poi": "6",
+    "type": "event",
+    "acc_time": "February 15, 2018, 19:00:00",
+    "aoe_time": 1518678000.0,
+    "aoe_curr_time": "February 15, 2018, 15:00:00"
+  },
+  {
+    "des": "reading a book",
+    "time": 1518699600.0,
+    "poi": "7.3",
+    "type": "event",
+    "acc_time": "February 15, 2018, 21:00:00",
+    "aoe_time": 1518685200.0,
+    "aoe_curr_time": "February 15, 2018, 17:00:00"
+  },
+  {
+    "des": "watching TV or reading a book",
+    "time": 1518703200.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 15, 2018, 22:00:00",
+    "aoe_time": 1518688800.0,
+    "aoe_curr_time": "February 15, 2018, 18:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518706800.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 23:00:00",
+    "aoe_time": 1518692400.0,
+    "aoe_curr_time": "February 15, 2018, 19:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518710400.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 00:00:00",
+    "aoe_time": 1518696000.0,
+    "aoe_curr_time": "February 15, 2018, 20:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518739200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 08:00:00",
+    "aoe_time": 1518724800.0,
+    "aoe_curr_time": "February 16, 2018, 04:00:00"
+  },
+  {
+    "des": "analyzing data",
+    "time": 1518742800.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 09:00:00",
+    "aoe_time": 1518728400.0,
+    "aoe_curr_time": "February 16, 2018, 05:00:00"
+  },
+  {
+    "des": "taking a walk and exploring her neighborhood",
+    "time": 1518746400.0,
+    "poi": "6.2",
+    "type": "event",
+    "acc_time": "February 16, 2018, 10:00:00",
+    "aoe_time": 1518732000.0,
+    "aoe_curr_time": "February 16, 2018, 06:00:00"
+  },
+  {
+    "des": "taking a break for lunch",
+    "time": 1518753600.0,
+    "poi": "3.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 12:00:00",
+    "aoe_time": 1518739200.0,
+    "aoe_curr_time": "February 16, 2018, 08:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518757200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 13:00:00",
+    "aoe_time": 1518742800.0,
+    "aoe_curr_time": "February 16, 2018, 09:00:00"
+  },
+  {
+    "des": "analyzing data",
+    "time": 1518760800.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 16, 2018, 14:00:00",
+    "aoe_time": 1518746400.0,
+    "aoe_curr_time": "February 16, 2018, 10:00:00"
+  },
+  {
+    "des": "going on an afternoon hike",
+    "time": 1518764400.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 16, 2018, 15:00:00",
+    "aoe_time": 1518750000.0,
+    "aoe_curr_time": "February 16, 2018, 11:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518771600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 17:00:00",
+    "aoe_time": 1518757200.0,
+    "aoe_curr_time": "February 16, 2018, 13:00:00"
+  },
+  {
+    "des": "relaxing and watching TV",
+    "time": 1518778800.0,
+    "poi": "6.2",
+    "type": "event",
+    "acc_time": "February 16, 2018, 19:00:00",
+    "aoe_time": 1518764400.0,
+    "aoe_curr_time": "February 16, 2018, 15:00:00"
+  },
+  {
+    "des": "reading a book",
+    "time": 1518786000.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 16, 2018, 21:00:00",
+    "aoe_time": 1518771600.0,
+    "aoe_curr_time": "February 16, 2018, 17:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518793200.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 23:00:00",
+    "aoe_time": 1518778800.0,
+    "aoe_curr_time": "February 16, 2018, 19:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518796800.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 00:00:00",
+    "aoe_time": 1518782400.0,
+    "aoe_curr_time": "February 16, 2018, 20:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518822000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 07:00:00",
+    "aoe_time": 1518807600.0,
+    "aoe_curr_time": "February 17, 2018, 03:00:00"
+  },
+  {
+    "des": "getting ready for work",
+    "time": 1518825600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 08:00:00",
+    "aoe_time": 1518811200.0,
+    "aoe_curr_time": "February 17, 2018, 04:00:00"
+  },
+  {
+    "des": "at work analyzing data trends",
+    "time": 1518829200.0,
+    "poi": "8",
+    "type": "event",
+    "acc_time": "February 17, 2018, 09:00:00",
+    "aoe_time": 1518814800.0,
+    "aoe_curr_time": "February 17, 2018, 05:00:00"
+  },
+  {
+    "des": "taking a lunch break",
+    "time": 1518836400.0,
+    "poi": "7.3",
+    "type": "event",
+    "acc_time": "February 17, 2018, 11:00:00",
+    "aoe_time": 1518822000.0,
+    "aoe_curr_time": "February 17, 2018, 07:00:00"
+  },
+  {
+    "des": "back at work analyzing data trends",
+    "time": 1518843600.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 17, 2018, 13:00:00",
+    "aoe_time": 1518829200.0,
+    "aoe_curr_time": "February 17, 2018, 09:00:00"
+  },
+  {
+    "des": "going for a hike",
+    "time": 1518854400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 16:00:00",
+    "aoe_time": 1518840000.0,
+    "aoe_curr_time": "February 17, 2018, 12:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518861600.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 17, 2018, 18:00:00",
+    "aoe_time": 1518847200.0,
+    "aoe_curr_time": "February 17, 2018, 14:00:00"
+  },
+  {
+    "des": "taking an evening stroll",
+    "time": 1518868800.0,
+    "poi": "6.7",
+    "type": "event",
+    "acc_time": "February 17, 2018, 20:00:00",
+    "aoe_time": 1518854400.0,
+    "aoe_curr_time": "February 17, 2018, 16:00:00"
+  },
+  {
+    "des": "watching a movie or reading a book",
+    "time": 1518872400.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 17, 2018, 21:00:00",
+    "aoe_time": 1518858000.0,
+    "aoe_curr_time": "February 17, 2018, 17:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518879600.0,
+    "poi": "1.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 23:00:00",
+    "aoe_time": 1518865200.0,
+    "aoe_curr_time": "February 17, 2018, 19:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518883200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 00:00:00",
+    "aoe_time": 1518868800.0,
+    "aoe_curr_time": "February 17, 2018, 20:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518912000.0,
+    "poi": "5.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 08:00:00",
+    "aoe_time": 1518897600.0,
+    "aoe_curr_time": "February 18, 2018, 04:00:00"
+  },
+  {
+    "des": "heading out for a hike",
+    "time": 1518915600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 09:00:00",
+    "aoe_time": 1518901200.0,
+    "aoe_curr_time": "February 18, 2018, 05:00:00"
+  },
+  {
+    "des": "researching and analyzing data",
+    "time": 1518919200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 10:00:00",
+    "aoe_time": 1518904800.0,
+    "aoe_curr_time": "February 18, 2018, 06:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518926400.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 12:00:00",
+    "aoe_time": 1518912000.0,
+    "aoe_curr_time": "February 18, 2018, 08:00:00"
+  },
+  {
+    "des": "exploring a new data trend",
+    "time": 1518930000.0,
+    "poi": "7.3",
+    "type": "event",
+    "acc_time": "February 18, 2018, 13:00:00",
+    "aoe_time": 1518915600.0,
+    "aoe_curr_time": "February 18, 2018, 09:00:00"
+  },
+  {
+    "des": "researching and analyzing data",
+    "time": 1518933600.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 18, 2018, 14:00:00",
+    "aoe_time": 1518919200.0,
+    "aoe_curr_time": "February 18, 2018, 10:00:00"
+  },
+  {
+    "des": "exploring a new data trend",
+    "time": 1518940800.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 18, 2018, 16:00:00",
+    "aoe_time": 1518926400.0,
+    "aoe_curr_time": "February 18, 2018, 12:00:00"
+  },
+  {
+    "des": "watching TV",
+    "time": 1518944400.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 17:00:00",
+    "aoe_time": 1518930000.0,
+    "aoe_curr_time": "February 18, 2018, 13:00:00"
+  },
+  {
+    "des": "exploring a new data trend",
+    "time": 1518948000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 18:00:00",
+    "aoe_time": 1518933600.0,
+    "aoe_curr_time": "February 18, 2018, 14:00:00"
+  },
+  {
+    "des": "making dinner",
+    "time": 1518951600.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 19:00:00",
+    "aoe_time": 1518937200.0,
+    "aoe_curr_time": "February 18, 2018, 15:00:00"
+  },
+  {
+    "des": "relaxing",
+    "time": 1518958800.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 21:00:00",
+    "aoe_time": 1518944400.0,
+    "aoe_curr_time": "February 18, 2018, 17:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518962400.0,
+    "poi": "3.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 22:00:00",
+    "aoe_time": 1518948000.0,
+    "aoe_curr_time": "February 18, 2018, 18:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518969600.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 00:00:00",
+    "aoe_time": 1518955200.0,
+    "aoe_curr_time": "February 18, 2018, 20:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518998400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 08:00:00",
+    "aoe_time": 1518984000.0,
+    "aoe_curr_time": "February 19, 2018, 04:00:00"
+  },
+  {
+    "des": "working as a Data Analyst",
+    "time": 1519002000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 09:00:00",
+    "aoe_time": 1518987600.0,
+    "aoe_curr_time": "February 19, 2018, 05:00:00"
+  },
+  {
+    "des": "taking a break for lunch",
+    "time": 1519012800.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 19, 2018, 12:00:00",
+    "aoe_time": 1518998400.0,
+    "aoe_curr_time": "February 19, 2018, 08:00:00"
+  },
+  {
+    "des": "working as a Data Analyst",
+    "time": 1519016400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 13:00:00",
+    "aoe_time": 1519002000.0,
+    "aoe_curr_time": "February 19, 2018, 09:00:00"
+  },
+  {
+    "des": "going on a hike",
+    "time": 1519027200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 16:00:00",
+    "aoe_time": 1519012800.0,
+    "aoe_curr_time": "February 19, 2018, 12:00:00"
+  },
+  {
+    "des": "eating dinner",
+    "time": 1519034400.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 18:00:00",
+    "aoe_time": 1519020000.0,
+    "aoe_curr_time": "February 19, 2018, 14:00:00"
+  },
+  {
+    "des": "relaxing and watching TV",
+    "time": 1519041600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 20:00:00",
+    "aoe_time": 1519027200.0,
+    "aoe_curr_time": "February 19, 2018, 16:00:00"
+  },
+  {
+    "des": "relaxing and reading a book",
+    "time": 1519048800.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 19, 2018, 22:00:00",
+    "aoe_time": 1519034400.0,
+    "aoe_curr_time": "February 19, 2018, 18:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1519052400.0,
+    "poi": "3.",
+    "type": "event",
+    "acc_time": "February 19, 2018, 23:00:00",
+    "aoe_time": 1519038000.0,
+    "aoe_curr_time": "February 19, 2018, 19:00:00"
+  }
+]

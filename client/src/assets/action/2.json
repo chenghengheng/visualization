@@ -1,0 +1,722 @@
+[
+  {
+    "des": "sleeping",
+    "time": 1518451200.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 00:00:00",
+    "aoe_time": 1518400800.0,
+    "aoe_curr_time": "February 12, 2018, 10:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518487200.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 10:00:00",
+    "aoe_time": 1518436800.0,
+    "aoe_curr_time": "February 12, 2018, 20:00:00"
+  },
+  {
+    "des": "dedicating a few hours to painting",
+    "time": 1518490800.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 11:00:00",
+    "aoe_time": 1518440400.0,
+    "aoe_curr_time": "February 12, 2018, 21:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518494400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 12:00:00",
+    "aoe_time": 1518444000.0,
+    "aoe_curr_time": "February 12, 2018, 22:00:00"
+  },
+  {
+    "des": "visiting a nearby art gallery",
+    "time": 1518498000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 13:00:00",
+    "aoe_time": 1518447600.0,
+    "aoe_curr_time": "February 12, 2018, 23:00:00"
+  },
+  {
+    "des": "spending time with friends or family",
+    "time": 1518508800.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 16:00:00",
+    "aoe_time": 1518458400.0,
+    "aoe_curr_time": "February 13, 2018, 02:00:00"
+  },
+  {
+    "des": "sketching and practicing her painting skills",
+    "time": 1518519600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 19:00:00",
+    "aoe_time": 1518469200.0,
+    "aoe_curr_time": "February 13, 2018, 05:00:00"
+  },
+  {
+    "des": "watching a movie",
+    "time": 1518523200.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 20:00:00",
+    "aoe_time": 1518472800.0,
+    "aoe_curr_time": "February 13, 2018, 06:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518526800.0,
+    "poi": "5.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 21:00:00",
+    "aoe_time": 1518476400.0,
+    "aoe_curr_time": "February 13, 2018, 07:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518530400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 22:00:00",
+    "aoe_time": 1518480000.0,
+    "aoe_curr_time": "February 13, 2018, 08:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518534000.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 23:00:00",
+    "aoe_time": 1518483600.0,
+    "aoe_curr_time": "February 13, 2018, 09:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518537600.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 00:00:00",
+    "aoe_time": 1518487200.0,
+    "aoe_curr_time": "February 13, 2018, 10:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518566400.0,
+    "poi": "7",
+    "type": "event",
+    "acc_time": "February 14, 2018, 08:00:00",
+    "aoe_time": 1518516000.0,
+    "aoe_curr_time": "February 13, 2018, 18:00:00"
+  },
+  {
+    "des": "going out and exploring local galleries",
+    "time": 1518570000.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 14, 2018, 09:00:00",
+    "aoe_time": 1518519600.0,
+    "aoe_curr_time": "February 13, 2018, 19:00:00"
+  },
+  {
+    "des": "exploring local galleries",
+    "time": 1518573600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 10:00:00",
+    "aoe_time": 1518523200.0,
+    "aoe_curr_time": "February 13, 2018, 20:00:00"
+  },
+  {
+    "des": "having lunch outdoors with friends",
+    "time": 1518577200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 11:00:00",
+    "aoe_time": 1518526800.0,
+    "aoe_curr_time": "February 13, 2018, 21:00:00"
+  },
+  {
+    "des": "creating artwork",
+    "time": 1518584400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 13:00:00",
+    "aoe_time": 1518534000.0,
+    "aoe_curr_time": "February 13, 2018, 23:00:00"
+  },
+  {
+    "des": "going for a walk in the park",
+    "time": 1518595200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 16:00:00",
+    "aoe_time": 1518544800.0,
+    "aoe_curr_time": "February 14, 2018, 02:00:00"
+  },
+  {
+    "des": "having dinner with family",
+    "time": 1518602400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 18:00:00",
+    "aoe_time": 1518552000.0,
+    "aoe_curr_time": "February 14, 2018, 04:00:00"
+  },
+  {
+    "des": "watching a movie with friends",
+    "time": 1518606000.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 19:00:00",
+    "aoe_time": 1518555600.0,
+    "aoe_curr_time": "February 14, 2018, 05:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518609600.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 20:00:00",
+    "aoe_time": 1518559200.0,
+    "aoe_curr_time": "February 14, 2018, 06:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518613200.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 21:00:00",
+    "aoe_time": 1518562800.0,
+    "aoe_curr_time": "February 14, 2018, 07:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518624000.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 00:00:00",
+    "aoe_time": 1518573600.0,
+    "aoe_curr_time": "February 14, 2018, 10:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518652800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 08:00:00",
+    "aoe_time": 1518602400.0,
+    "aoe_curr_time": "February 14, 2018, 18:00:00"
+  },
+  {
+    "des": "at the art studio painting",
+    "time": 1518656400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 09:00:00",
+    "aoe_time": 1518606000.0,
+    "aoe_curr_time": "February 14, 2018, 19:00:00"
+  },
+  {
+    "des": "painting at the art studio",
+    "time": 1518660000.0,
+    "poi": "8.4",
+    "type": "event",
+    "acc_time": "February 15, 2018, 10:00:00",
+    "aoe_time": 1518609600.0,
+    "aoe_curr_time": "February 14, 2018, 20:00:00"
+  },
+  {
+    "des": "taking a lunch break",
+    "time": 1518663600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 11:00:00",
+    "aoe_time": 1518613200.0,
+    "aoe_curr_time": "February 14, 2018, 21:00:00"
+  },
+  {
+    "des": "painting at the art studio",
+    "time": 1518670800.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 15, 2018, 13:00:00",
+    "aoe_time": 1518620400.0,
+    "aoe_curr_time": "February 14, 2018, 23:00:00"
+  },
+  {
+    "des": "finishing her painting work",
+    "time": 1518685200.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 17:00:00",
+    "aoe_time": 1518634800.0,
+    "aoe_curr_time": "February 15, 2018, 03:00:00"
+  },
+  {
+    "des": "exploring the local galleries",
+    "time": 1518688800.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 18:00:00",
+    "aoe_time": 1518638400.0,
+    "aoe_curr_time": "February 15, 2018, 04:00:00"
+  },
+  {
+    "des": "relaxing at home",
+    "time": 1518696000.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 20:00:00",
+    "aoe_time": 1518645600.0,
+    "aoe_curr_time": "February 15, 2018, 06:00:00"
+  },
+  {
+    "des": "reading a book",
+    "time": 1518703200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 22:00:00",
+    "aoe_time": 1518652800.0,
+    "aoe_curr_time": "February 15, 2018, 08:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518706800.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 23:00:00",
+    "aoe_time": 1518656400.0,
+    "aoe_curr_time": "February 15, 2018, 09:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518710400.0,
+    "poi": "2.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 00:00:00",
+    "aoe_time": 1518660000.0,
+    "aoe_curr_time": "February 15, 2018, 10:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518735600.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 07:00:00",
+    "aoe_time": 1518685200.0,
+    "aoe_curr_time": "February 15, 2018, 17:00:00"
+  },
+  {
+    "des": "cooking breakfast and having a cup of coffee",
+    "time": 1518739200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 08:00:00",
+    "aoe_time": 1518688800.0,
+    "aoe_curr_time": "February 15, 2018, 18:00:00"
+  },
+  {
+    "des": "working on her artwork in the studio",
+    "time": 1518742800.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 09:00:00",
+    "aoe_time": 1518692400.0,
+    "aoe_curr_time": "February 15, 2018, 19:00:00"
+  },
+  {
+    "des": "having a lunch break",
+    "time": 1518750000.0,
+    "poi": "5.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 11:00:00",
+    "aoe_time": 1518699600.0,
+    "aoe_curr_time": "February 15, 2018, 21:00:00"
+  },
+  {
+    "des": "taking a break and going for a stroll in the park",
+    "time": 1518753600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 12:00:00",
+    "aoe_time": 1518703200.0,
+    "aoe_curr_time": "February 15, 2018, 22:00:00"
+  },
+  {
+    "des": "taking a nap and going back to the studio",
+    "time": 1518760800.0,
+    "poi": "8",
+    "type": "event",
+    "acc_time": "February 16, 2018, 14:00:00",
+    "aoe_time": 1518710400.0,
+    "aoe_curr_time": "February 16, 2018, 00:00:00"
+  },
+  {
+    "des": "working on her artwork in the studio",
+    "time": 1518768000.0,
+    "poi": "8",
+    "type": "event",
+    "acc_time": "February 16, 2018, 16:00:00",
+    "aoe_time": 1518717600.0,
+    "aoe_curr_time": "February 16, 2018, 02:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518771600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 17:00:00",
+    "aoe_time": 1518721200.0,
+    "aoe_curr_time": "February 16, 2018, 03:00:00"
+  },
+  {
+    "des": "meeting up with friends for some evening activities",
+    "time": 1518778800.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 19:00:00",
+    "aoe_time": 1518728400.0,
+    "aoe_curr_time": "February 16, 2018, 05:00:00"
+  },
+  {
+    "des": "spending time with friends",
+    "time": 1518786000.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 16, 2018, 21:00:00",
+    "aoe_time": 1518735600.0,
+    "aoe_curr_time": "February 16, 2018, 07:00:00"
+  },
+  {
+    "des": "spending time with friends and winding down for the night",
+    "time": 1518793200.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 16, 2018, 23:00:00",
+    "aoe_time": 1518742800.0,
+    "aoe_curr_time": "February 16, 2018, 09:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518796800.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 00:00:00",
+    "aoe_time": 1518746400.0,
+    "aoe_curr_time": "February 16, 2018, 10:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518825600.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 08:00:00",
+    "aoe_time": 1518775200.0,
+    "aoe_curr_time": "February 16, 2018, 18:00:00"
+  },
+  {
+    "des": "visiting a local gallery",
+    "time": 1518829200.0,
+    "poi": "8",
+    "type": "event",
+    "acc_time": "February 17, 2018, 09:00:00",
+    "aoe_time": 1518778800.0,
+    "aoe_curr_time": "February 16, 2018, 19:00:00"
+  },
+  {
+    "des": "in her studio working on her new painting",
+    "time": 1518832800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 10:00:00",
+    "aoe_time": 1518782400.0,
+    "aoe_curr_time": "February 16, 2018, 20:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518840000.0,
+    "poi": "6.2",
+    "type": "event",
+    "acc_time": "February 17, 2018, 12:00:00",
+    "aoe_time": 1518789600.0,
+    "aoe_curr_time": "February 16, 2018, 22:00:00"
+  },
+  {
+    "des": "taking a walk to the park and enjoying the scenery",
+    "time": 1518843600.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 13:00:00",
+    "aoe_time": 1518793200.0,
+    "aoe_curr_time": "February 16, 2018, 23:00:00"
+  },
+  {
+    "des": "continuing to work on her painting in her studio",
+    "time": 1518847200.0,
+    "poi": "6.8",
+    "type": "event",
+    "acc_time": "February 17, 2018, 14:00:00",
+    "aoe_time": 1518796800.0,
+    "aoe_curr_time": "February 17, 2018, 00:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518858000.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 17:00:00",
+    "aoe_time": 1518807600.0,
+    "aoe_curr_time": "February 17, 2018, 03:00:00"
+  },
+  {
+    "des": "reading a book",
+    "time": 1518861600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 18:00:00",
+    "aoe_time": 1518811200.0,
+    "aoe_curr_time": "February 17, 2018, 04:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518865200.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 19:00:00",
+    "aoe_time": 1518814800.0,
+    "aoe_curr_time": "February 17, 2018, 05:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518868800.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 20:00:00",
+    "aoe_time": 1518818400.0,
+    "aoe_curr_time": "February 17, 2018, 06:00:00"
+  },
+  {
+    "des": "reading a book",
+    "time": 1518872400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 21:00:00",
+    "aoe_time": 1518822000.0,
+    "aoe_curr_time": "February 17, 2018, 07:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518879600.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 23:00:00",
+    "aoe_time": 1518829200.0,
+    "aoe_curr_time": "February 17, 2018, 09:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518883200.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 00:00:00",
+    "aoe_time": 1518832800.0,
+    "aoe_curr_time": "February 17, 2018, 10:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518912000.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 08:00:00",
+    "aoe_time": 1518861600.0,
+    "aoe_curr_time": "February 17, 2018, 18:00:00"
+  },
+  {
+    "des": "creating artwork",
+    "time": 1518915600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 09:00:00",
+    "aoe_time": 1518865200.0,
+    "aoe_curr_time": "February 17, 2018, 19:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518926400.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 18, 2018, 12:00:00",
+    "aoe_time": 1518876000.0,
+    "aoe_curr_time": "February 17, 2018, 22:00:00"
+  },
+  {
+    "des": "visiting nearby galleries",
+    "time": 1518930000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 13:00:00",
+    "aoe_time": 1518879600.0,
+    "aoe_curr_time": "February 17, 2018, 23:00:00"
+  },
+  {
+    "des": "ordering art supplies",
+    "time": 1518937200.0,
+    "poi": "9.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 15:00:00",
+    "aoe_time": 1518886800.0,
+    "aoe_curr_time": "February 18, 2018, 01:00:00"
+  },
+  {
+    "des": "creating artwork",
+    "time": 1518944400.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 17:00:00",
+    "aoe_time": 1518894000.0,
+    "aoe_curr_time": "February 18, 2018, 03:00:00"
+  },
+  {
+    "des": "watching TV",
+    "time": 1518951600.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 19:00:00",
+    "aoe_time": 1518901200.0,
+    "aoe_curr_time": "February 18, 2018, 05:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518955200.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 20:00:00",
+    "aoe_time": 1518904800.0,
+    "aoe_curr_time": "February 18, 2018, 06:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518958800.0,
+    "poi": "2.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 21:00:00",
+    "aoe_time": 1518908400.0,
+    "aoe_curr_time": "February 18, 2018, 07:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518969600.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 00:00:00",
+    "aoe_time": 1518919200.0,
+    "aoe_curr_time": "February 18, 2018, 10:00:00"
+  },
+  {
+    "des": "waking up and completing her morning routine",
+    "time": 1518994800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 07:00:00",
+    "aoe_time": 1518944400.0,
+    "aoe_curr_time": "February 18, 2018, 17:00:00"
+  },
+  {
+    "des": "painting",
+    "time": 1518998400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 08:00:00",
+    "aoe_time": 1518948000.0,
+    "aoe_curr_time": "February 18, 2018, 18:00:00"
+  },
+  {
+    "des": "taking a break to have lunch",
+    "time": 1519005600.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 19, 2018, 10:00:00",
+    "aoe_time": 1518955200.0,
+    "aoe_curr_time": "February 18, 2018, 20:00:00"
+  },
+  {
+    "des": "visiting a local gallery",
+    "time": 1519016400.0,
+    "poi": "7",
+    "type": "event",
+    "acc_time": "February 19, 2018, 13:00:00",
+    "aoe_time": 1518966000.0,
+    "aoe_curr_time": "February 18, 2018, 23:00:00"
+  },
+  {
+    "des": "experimenting with different painting techniques",
+    "time": 1519020000.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 14:00:00",
+    "aoe_time": 1518969600.0,
+    "aoe_curr_time": "February 19, 2018, 00:00:00"
+  },
+  {
+    "des": "painting",
+    "time": 1519027200.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 16:00:00",
+    "aoe_time": 1518976800.0,
+    "aoe_curr_time": "February 19, 2018, 02:00:00"
+  },
+  {
+    "des": "taking a break to have dinner",
+    "time": 1519030800.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 17:00:00",
+    "aoe_time": 1518980400.0,
+    "aoe_curr_time": "February 19, 2018, 03:00:00"
+  },
+  {
+    "des": "enjoying a relaxing activity, such as watching TV or listening to music",
+    "time": 1519038000.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 19:00:00",
+    "aoe_time": 1518987600.0,
+    "aoe_curr_time": "February 19, 2018, 05:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1519041600.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 20:00:00",
+    "aoe_time": 1518991200.0,
+    "aoe_curr_time": "February 19, 2018, 06:00:00"
+  },
+  {
+    "des": "enjoying a relaxing activity, such as watching TV or listening to music",
+    "time": 1519045200.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 21:00:00",
+    "aoe_time": 1518994800.0,
+    "aoe_curr_time": "February 19, 2018, 07:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1519048800.0,
+    "poi": "2.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 22:00:00",
+    "aoe_time": 1518998400.0,
+    "aoe_curr_time": "February 19, 2018, 08:00:00"
+  }
+]

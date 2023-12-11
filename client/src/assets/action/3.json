@@ -1,0 +1,794 @@
+[
+  {
+    "des": "sleeping",
+    "time": 1518451200.0,
+    "poi": "2.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 00:00:00",
+    "aoe_time": 1518404400.0,
+    "aoe_curr_time": "February 12, 2018, 11:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518480000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 08:00:00",
+    "aoe_time": 1518433200.0,
+    "aoe_curr_time": "February 12, 2018, 19:00:00"
+  },
+  {
+    "des": "reading the news and following the market trends",
+    "time": 1518483600.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 09:00:00",
+    "aoe_time": 1518436800.0,
+    "aoe_curr_time": "February 12, 2018, 20:00:00"
+  },
+  {
+    "des": "preparing a work report and analyzing the materials",
+    "time": 1518487200.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 10:00:00",
+    "aoe_time": 1518440400.0,
+    "aoe_curr_time": "February 12, 2018, 21:00:00"
+  },
+  {
+    "des": "checking emails and calling his clients",
+    "time": 1518490800.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 11:00:00",
+    "aoe_time": 1518444000.0,
+    "aoe_curr_time": "February 12, 2018, 22:00:00"
+  },
+  {
+    "des": "taking a lunch break",
+    "time": 1518494400.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 12:00:00",
+    "aoe_time": 1518447600.0,
+    "aoe_curr_time": "February 12, 2018, 23:00:00"
+  },
+  {
+    "des": "working on improving his financial analysis techniques",
+    "time": 1518498000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 13:00:00",
+    "aoe_time": 1518451200.0,
+    "aoe_curr_time": "February 13, 2018, 00:00:00"
+  },
+  {
+    "des": "attending an online class on market trends",
+    "time": 1518501600.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 14:00:00",
+    "aoe_time": 1518454800.0,
+    "aoe_curr_time": "February 13, 2018, 01:00:00"
+  },
+  {
+    "des": "checking emails for client updates",
+    "time": 1518508800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 16:00:00",
+    "aoe_time": 1518462000.0,
+    "aoe_curr_time": "February 13, 2018, 03:00:00"
+  },
+  {
+    "des": "reading a book for leisure",
+    "time": 1518516000.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 13, 2018, 18:00:00",
+    "aoe_time": 1518469200.0,
+    "aoe_curr_time": "February 13, 2018, 05:00:00"
+  },
+  {
+    "des": "preparing dinner",
+    "time": 1518523200.0,
+    "poi": "3.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 20:00:00",
+    "aoe_time": 1518476400.0,
+    "aoe_curr_time": "February 13, 2018, 07:00:00"
+  },
+  {
+    "des": "eating dinner",
+    "time": 1518526800.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 13, 2018, 21:00:00",
+    "aoe_time": 1518480000.0,
+    "aoe_curr_time": "February 13, 2018, 08:00:00"
+  },
+  {
+    "des": "watching a movie",
+    "time": 1518530400.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 22:00:00",
+    "aoe_time": 1518483600.0,
+    "aoe_curr_time": "February 13, 2018, 09:00:00"
+  },
+  {
+    "des": "going to bed",
+    "time": 1518534000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 13, 2018, 23:00:00",
+    "aoe_time": 1518487200.0,
+    "aoe_curr_time": "February 13, 2018, 10:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518537600.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 00:00:00",
+    "aoe_time": 1518490800.0,
+    "aoe_curr_time": "February 13, 2018, 11:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518566400.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 08:00:00",
+    "aoe_time": 1518519600.0,
+    "aoe_curr_time": "February 13, 2018, 19:00:00"
+  },
+  {
+    "des": "making breakfast",
+    "time": 1518570000.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 09:00:00",
+    "aoe_time": 1518523200.0,
+    "aoe_curr_time": "February 13, 2018, 20:00:00"
+  },
+  {
+    "des": "browsing news and other sources for market trends",
+    "time": 1518573600.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 10:00:00",
+    "aoe_time": 1518526800.0,
+    "aoe_curr_time": "February 13, 2018, 21:00:00"
+  },
+  {
+    "des": "checking emails and answering client inquiries",
+    "time": 1518577200.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 14, 2018, 11:00:00",
+    "aoe_time": 1518530400.0,
+    "aoe_curr_time": "February 13, 2018, 22:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518580800.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 12:00:00",
+    "aoe_time": 1518534000.0,
+    "aoe_curr_time": "February 13, 2018, 23:00:00"
+  },
+  {
+    "des": "analyzing market trends and coming up with new investment ideas",
+    "time": 1518584400.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 14, 2018, 13:00:00",
+    "aoe_time": 1518537600.0,
+    "aoe_curr_time": "February 14, 2018, 00:00:00"
+  },
+  {
+    "des": "checking in with clients",
+    "time": 1518588000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 14:00:00",
+    "aoe_time": 1518541200.0,
+    "aoe_curr_time": "February 14, 2018, 01:00:00"
+  },
+  {
+    "des": "reading an economics book",
+    "time": 1518591600.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 15:00:00",
+    "aoe_time": 1518544800.0,
+    "aoe_curr_time": "February 14, 2018, 02:00:00"
+  },
+  {
+    "des": "catching up with friends",
+    "time": 1518598800.0,
+    "poi": "8",
+    "type": "event",
+    "acc_time": "February 14, 2018, 17:00:00",
+    "aoe_time": 1518552000.0,
+    "aoe_curr_time": "February 14, 2018, 04:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518606000.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 19:00:00",
+    "aoe_time": 1518559200.0,
+    "aoe_curr_time": "February 14, 2018, 06:00:00"
+  },
+  {
+    "des": "reading an economics book",
+    "time": 1518613200.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 14, 2018, 21:00:00",
+    "aoe_time": 1518566400.0,
+    "aoe_curr_time": "February 14, 2018, 08:00:00"
+  },
+  {
+    "des": "watching a movie",
+    "time": 1518616800.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 14, 2018, 22:00:00",
+    "aoe_time": 1518570000.0,
+    "aoe_curr_time": "February 14, 2018, 09:00:00"
+  },
+  {
+    "des": "going to bed",
+    "time": 1518620400.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 14, 2018, 23:00:00",
+    "aoe_time": 1518573600.0,
+    "aoe_curr_time": "February 14, 2018, 10:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518624000.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 00:00:00",
+    "aoe_time": 1518577200.0,
+    "aoe_curr_time": "February 14, 2018, 11:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518652800.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 08:00:00",
+    "aoe_time": 1518606000.0,
+    "aoe_curr_time": "February 14, 2018, 19:00:00"
+  },
+  {
+    "des": "researching market analysis and trying to find new trends",
+    "time": 1518656400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 09:00:00",
+    "aoe_time": 1518609600.0,
+    "aoe_curr_time": "February 14, 2018, 20:00:00"
+  },
+  {
+    "des": "having a light breakfast",
+    "time": 1518660000.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 15, 2018, 10:00:00",
+    "aoe_time": 1518613200.0,
+    "aoe_curr_time": "February 14, 2018, 21:00:00"
+  },
+  {
+    "des": "continuing his research and analysis",
+    "time": 1518663600.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 15, 2018, 11:00:00",
+    "aoe_time": 1518616800.0,
+    "aoe_curr_time": "February 14, 2018, 22:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518667200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 12:00:00",
+    "aoe_time": 1518620400.0,
+    "aoe_curr_time": "February 14, 2018, 23:00:00"
+  },
+  {
+    "des": "starting to write a report about the recent market trends and their implications",
+    "time": 1518670800.0,
+    "poi": "8.",
+    "type": "event",
+    "acc_time": "February 15, 2018, 13:00:00",
+    "aoe_time": 1518624000.0,
+    "aoe_curr_time": "February 15, 2018, 00:00:00"
+  },
+  {
+    "des": "taking a break for coffee and some stretching",
+    "time": 1518674400.0,
+    "poi": "6.8",
+    "type": "event",
+    "acc_time": "February 15, 2018, 14:00:00",
+    "aoe_time": 1518627600.0,
+    "aoe_curr_time": "February 15, 2018, 01:00:00"
+  },
+  {
+    "des": "continuing to write the report",
+    "time": 1518681600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 16:00:00",
+    "aoe_time": 1518634800.0,
+    "aoe_curr_time": "February 15, 2018, 03:00:00"
+  },
+  {
+    "des": "reviewing the report and making any necessary changes",
+    "time": 1518685200.0,
+    "poi": "7",
+    "type": "event",
+    "acc_time": "February 15, 2018, 17:00:00",
+    "aoe_time": 1518638400.0,
+    "aoe_curr_time": "February 15, 2018, 04:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518692400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 19:00:00",
+    "aoe_time": 1518645600.0,
+    "aoe_curr_time": "February 15, 2018, 06:00:00"
+  },
+  {
+    "des": "reviewing the report and making any necessary changes",
+    "time": 1518696000.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 20:00:00",
+    "aoe_time": 1518649200.0,
+    "aoe_curr_time": "February 15, 2018, 07:00:00"
+  },
+  {
+    "des": "taking a break and reading a book",
+    "time": 1518699600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 21:00:00",
+    "aoe_time": 1518652800.0,
+    "aoe_curr_time": "February 15, 2018, 08:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518706800.0,
+    "poi": "2.5",
+    "type": "event",
+    "acc_time": "February 15, 2018, 23:00:00",
+    "aoe_time": 1518660000.0,
+    "aoe_curr_time": "February 15, 2018, 10:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518710400.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 00:00:00",
+    "aoe_time": 1518663600.0,
+    "aoe_curr_time": "February 15, 2018, 11:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518739200.0,
+    "poi": "3.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 08:00:00",
+    "aoe_time": 1518692400.0,
+    "aoe_curr_time": "February 15, 2018, 19:00:00"
+  },
+  {
+    "des": "analyzing the markets and researching on investments",
+    "time": 1518742800.0,
+    "poi": "9.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 09:00:00",
+    "aoe_time": 1518696000.0,
+    "aoe_curr_time": "February 15, 2018, 20:00:00"
+  },
+  {
+    "des": "having an early lunch",
+    "time": 1518750000.0,
+    "poi": "4.1",
+    "type": "event",
+    "acc_time": "February 16, 2018, 11:00:00",
+    "aoe_time": 1518703200.0,
+    "aoe_curr_time": "February 15, 2018, 22:00:00"
+  },
+  {
+    "des": "reading to invest more knowledge",
+    "time": 1518757200.0,
+    "poi": "8.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 13:00:00",
+    "aoe_time": 1518710400.0,
+    "aoe_curr_time": "February 16, 2018, 00:00:00"
+  },
+  {
+    "des": "working on compiling data",
+    "time": 1518764400.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 15:00:00",
+    "aoe_time": 1518717600.0,
+    "aoe_curr_time": "February 16, 2018, 02:00:00"
+  },
+  {
+    "des": "watching TV",
+    "time": 1518771600.0,
+    "poi": "4.0",
+    "type": "event",
+    "acc_time": "February 16, 2018, 17:00:00",
+    "aoe_time": 1518724800.0,
+    "aoe_curr_time": "February 16, 2018, 04:00:00"
+  },
+  {
+    "des": "organizing his schedule for tomorrow",
+    "time": 1518782400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 20:00:00",
+    "aoe_time": 1518735600.0,
+    "aoe_curr_time": "February 16, 2018, 07:00:00"
+  },
+  {
+    "des": "preparing for bed",
+    "time": 1518789600.0,
+    "poi": "4.5",
+    "type": "event",
+    "acc_time": "February 16, 2018, 22:00:00",
+    "aoe_time": 1518742800.0,
+    "aoe_curr_time": "February 16, 2018, 09:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518796800.0,
+    "poi": "1.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 00:00:00",
+    "aoe_time": 1518750000.0,
+    "aoe_curr_time": "February 16, 2018, 11:00:00"
+  },
+  {
+    "des": "waking up and completing morning routine",
+    "time": 1518825600.0,
+    "poi": "8",
+    "type": "event",
+    "acc_time": "February 17, 2018, 08:00:00",
+    "aoe_time": 1518778800.0,
+    "aoe_curr_time": "February 16, 2018, 19:00:00"
+  },
+  {
+    "des": "analyzing market trends and developing strategies",
+    "time": 1518829200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 09:00:00",
+    "aoe_time": 1518782400.0,
+    "aoe_curr_time": "February 16, 2018, 20:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1518840000.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 12:00:00",
+    "aoe_time": 1518793200.0,
+    "aoe_curr_time": "February 16, 2018, 23:00:00"
+  },
+  {
+    "des": "analyzing stocks and related news",
+    "time": 1518843600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 13:00:00",
+    "aoe_time": 1518796800.0,
+    "aoe_curr_time": "February 17, 2018, 00:00:00"
+  },
+  {
+    "des": "taking a break and reading a book",
+    "time": 1518850800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 15:00:00",
+    "aoe_time": 1518804000.0,
+    "aoe_curr_time": "February 17, 2018, 02:00:00"
+  },
+  {
+    "des": "conducting a customer meeting",
+    "time": 1518854400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 16:00:00",
+    "aoe_time": 1518807600.0,
+    "aoe_curr_time": "February 17, 2018, 03:00:00"
+  },
+  {
+    "des": "preparing financial reports",
+    "time": 1518861600.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 18:00:00",
+    "aoe_time": 1518814800.0,
+    "aoe_curr_time": "February 17, 2018, 05:00:00"
+  },
+  {
+    "des": "watching TV",
+    "time": 1518865200.0,
+    "poi": "3.2",
+    "type": "event",
+    "acc_time": "February 17, 2018, 19:00:00",
+    "aoe_time": 1518818400.0,
+    "aoe_curr_time": "February 17, 2018, 06:00:00"
+  },
+  {
+    "des": "eating dinner",
+    "time": 1518872400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 17, 2018, 21:00:00",
+    "aoe_time": 1518825600.0,
+    "aoe_curr_time": "February 17, 2018, 08:00:00"
+  },
+  {
+    "des": "going to bed",
+    "time": 1518879600.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 17, 2018, 23:00:00",
+    "aoe_time": 1518832800.0,
+    "aoe_curr_time": "February 17, 2018, 10:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518883200.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 00:00:00",
+    "aoe_time": 1518836400.0,
+    "aoe_curr_time": "February 17, 2018, 11:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518912000.0,
+    "poi": "5.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 08:00:00",
+    "aoe_time": 1518865200.0,
+    "aoe_curr_time": "February 17, 2018, 19:00:00"
+  },
+  {
+    "des": "analyzing market trends",
+    "time": 1518915600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 09:00:00",
+    "aoe_time": 1518868800.0,
+    "aoe_curr_time": "February 17, 2018, 20:00:00"
+  },
+  {
+    "des": "taking a lunch break",
+    "time": 1518930000.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 13:00:00",
+    "aoe_time": 1518883200.0,
+    "aoe_curr_time": "February 18, 2018, 00:00:00"
+  },
+  {
+    "des": "analyzing market trends",
+    "time": 1518933600.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 14:00:00",
+    "aoe_time": 1518886800.0,
+    "aoe_curr_time": "February 18, 2018, 01:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1518944400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 17:00:00",
+    "aoe_time": 1518897600.0,
+    "aoe_curr_time": "February 18, 2018, 04:00:00"
+  },
+  {
+    "des": "reading",
+    "time": 1518951600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 19:00:00",
+    "aoe_time": 1518904800.0,
+    "aoe_curr_time": "February 18, 2018, 06:00:00"
+  },
+  {
+    "des": "completing his morning routine",
+    "time": 1518955200.0,
+    "poi": "6.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 20:00:00",
+    "aoe_time": 1518908400.0,
+    "aoe_curr_time": "February 18, 2018, 07:00:00"
+  },
+  {
+    "des": "reading",
+    "time": 1518958800.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 18, 2018, 21:00:00",
+    "aoe_time": 1518912000.0,
+    "aoe_curr_time": "February 18, 2018, 08:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518966000.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 18, 2018, 23:00:00",
+    "aoe_time": 1518919200.0,
+    "aoe_curr_time": "February 18, 2018, 10:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1518969600.0,
+    "poi": "1.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 00:00:00",
+    "aoe_time": 1518922800.0,
+    "aoe_curr_time": "February 18, 2018, 11:00:00"
+  },
+  {
+    "des": "waking up and completing his morning routine",
+    "time": 1518998400.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 19, 2018, 08:00:00",
+    "aoe_time": 1518951600.0,
+    "aoe_curr_time": "February 18, 2018, 19:00:00"
+  },
+  {
+    "des": "checking emails and market news",
+    "time": 1519002000.0,
+    "poi": "8.2",
+    "type": "event",
+    "acc_time": "February 19, 2018, 09:00:00",
+    "aoe_time": 1518955200.0,
+    "aoe_curr_time": "February 18, 2018, 20:00:00"
+  },
+  {
+    "des": "attending an online meeting or lecture",
+    "time": 1519005600.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 10:00:00",
+    "aoe_time": 1518958800.0,
+    "aoe_curr_time": "February 18, 2018, 21:00:00"
+  },
+  {
+    "des": "analyzing market trends and making investment decisions",
+    "time": 1519009200.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 11:00:00",
+    "aoe_time": 1518962400.0,
+    "aoe_curr_time": "February 18, 2018, 22:00:00"
+  },
+  {
+    "des": "having lunch",
+    "time": 1519012800.0,
+    "poi": "3.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 12:00:00",
+    "aoe_time": 1518966000.0,
+    "aoe_curr_time": "February 18, 2018, 23:00:00"
+  },
+  {
+    "des": "taking part in an online discussion on market trends",
+    "time": 1519016400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 13:00:00",
+    "aoe_time": 1518969600.0,
+    "aoe_curr_time": "February 19, 2018, 00:00:00"
+  },
+  {
+    "des": "checking financial performance and analyzing results",
+    "time": 1519020000.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 14:00:00",
+    "aoe_time": 1518973200.0,
+    "aoe_curr_time": "February 19, 2018, 01:00:00"
+  },
+  {
+    "des": "taking part in an online discussion on market trends",
+    "time": 1519023600.0,
+    "poi": "7.2",
+    "type": "event",
+    "acc_time": "February 19, 2018, 15:00:00",
+    "aoe_time": 1518976800.0,
+    "aoe_curr_time": "February 19, 2018, 02:00:00"
+  },
+  {
+    "des": "reading for 30 minutes to relax",
+    "time": 1519027200.0,
+    "poi": "7.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 16:00:00",
+    "aoe_time": 1518980400.0,
+    "aoe_curr_time": "February 19, 2018, 03:00:00"
+  },
+  {
+    "des": "checking financial performance and analyzing results",
+    "time": 1519030800.0,
+    "poi": "8.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 17:00:00",
+    "aoe_time": 1518984000.0,
+    "aoe_curr_time": "February 19, 2018, 04:00:00"
+  },
+  {
+    "des": "having dinner",
+    "time": 1519034400.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 18:00:00",
+    "aoe_time": 1518987600.0,
+    "aoe_curr_time": "February 19, 2018, 05:00:00"
+  },
+  {
+    "des": "going for a walk",
+    "time": 1519041600.0,
+    "poi": "7.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 20:00:00",
+    "aoe_time": 1518994800.0,
+    "aoe_curr_time": "February 19, 2018, 07:00:00"
+  },
+  {
+    "des": "watching a movie",
+    "time": 1519045200.0,
+    "poi": "6.5",
+    "type": "event",
+    "acc_time": "February 19, 2018, 21:00:00",
+    "aoe_time": 1518998400.0,
+    "aoe_curr_time": "February 19, 2018, 08:00:00"
+  },
+  {
+    "des": "going to bed",
+    "time": 1519048800.0,
+    "poi": "5.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 22:00:00",
+    "aoe_time": 1519002000.0,
+    "aoe_curr_time": "February 19, 2018, 09:00:00"
+  },
+  {
+    "des": "sleeping",
+    "time": 1519052400.0,
+    "poi": "2.0",
+    "type": "event",
+    "acc_time": "February 19, 2018, 23:00:00",
+    "aoe_time": 1519005600.0,
+    "aoe_curr_time": "February 19, 2018, 10:00:00"
+  }
+]
